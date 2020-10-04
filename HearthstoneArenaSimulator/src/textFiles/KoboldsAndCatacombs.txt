@@ -1,0 +1,312 @@
+Aluneth	Legendary	Weapon		 Mage	6 	0 	3 	
+At the end of your turn, draw 3 cards. PHENOMENAL ARCANE POWER…itty bitty living space.
+Arcane Artificer	Common	Minion	Elemental	 Mage	1 	1 	2 	
+Whenever you cast a spell, gain Armor equal to its Cost. Ethereal armor dissipates in 6 hours which can cause extreme awkwardness for first time buyers.
+Arcane Tyrant	Epic	Minion	Elemental	 Any	5 	4 	4 	
+Costs (0) if you've cast a spell that costs (5) or more this turn. Tyrant is such a strong word.
+Astral Tiger	Epic	Minion	General	 Druid	4 	3 	5 	
+Deathrattle: Shuffle a copy of this minion into your deck. Astral kitty litter is surprisingly hard to find.
+Barkskin	Common	Spell		 Druid	1 			
+Give a minion +3 Health. Gain 3 Armor. Make like a tree... and gain armor.
+Benevolent Djinn	Common	Minion	Elemental	 Paladin	3 	2 	4 	
+At the end of your turn, restore 3 Health to your hero. Wish #1: funnel cakes. Wish #2: funnel cakes. Wish #3: FUNNEL CAKES.
+Bladed Gauntlet	Epic	Weapon		 Warrior	2 	0 	2 	
+Has Attack equal to your Armor. Can't attack heroes. CAUTION: DO NOT SCRATCH NOSE.
+Boisterous Bard	Common	Minion	General	 Any	3 	3 	2 	
+Battlecry: Give your other minions +1 Health. As a kid, she fought with rocks. Now she fights with ROCK!
+Branching Paths	Epic	Spell		 Druid	4 			
+Choose Twice - Draw a card; Give your minions +1 Attack; Gain 6 armor. Three paths diverged in a darkened hall, and I -
+I took the one less traveled by.
+And got eaten by a slime.
+Call to Arms	Epic	Spell		 Paladin	5 			
+Recruit 3 minions that cost (2) or less. More personal than a text to arms.
+Candleshot	Common	Weapon		 Hunter	1 	1 	3 	
+Your hero is Immune while attacking. Once called Cahn'delar, Shortbow of the Ancient Whisker.
+Carnivorous Cube	Epic	Minion	General	 Any	5 	4 	6 	
+Battlecry: Destroy a friendly minion.
+Deathrattle: Summon 2 copies of it. He's always grumpy until he's eaten his first barista of the morning.
+Cataclysm	Epic	Spell		 Warlock	4 			
+Destroy all minions. Discard your hand. RUN FROM SKY CANDLES! THEY BURN! RUN!
+Cave Hydra	Common	Minion	Beast	 Hunter	3 	2 	4 	
+Also damages the minions next to whomever this attacks. Can be upgraded into a Cave Lurker.
+Cavern Shinyfinder	Common	Minion	General	 Rogue	2 	3 	1 	
+Battlecry: Draw a weapon from your deck. They call her the candled vandal.
+Cheat Death	Common	Spell		 Rogue	2 			
+Secret: When a friendly minion dies, return it to your hand. It costs (2) less. Reported.
+Corridor Creeper	Epic	Minion	Beast	 Any	7 	2 	5 	
+Costs (1) less whenever a minion dies while this is in your hand. It likes the smell of dead things, which is curious, as it has no visible nose.
+Corrosive Sludge	Common	Minion	General	 Any	5 	5 	5 	
+Battlecry: Destroy your opponent's weapon. The result of centuries of terrible sanitation.
+Crushing Hand	Common	Spell		 Shaman	2 			
+Deal 8 damage to a minion. Overload: (3) Shamans always have the firmest handshakes.
+Crushing Walls	Epic	Spell		 Hunter	7 			
+Destroy your opponent's left and right-most minions. "It could be worse!" "It's worse."
+Crystal Lion	Rare	Minion	General	 Paladin	6 	5 	5 	
+Divine Shield
+Costs (1) less for each Silver Hand Recruit you control. Standard issue recruit gear: 1 silver sword, 1 Lordaeron insignia, 2 bags of crystal kibble.
+Cursed Disciple	Common	Minion	General	 Any	4 	5 	1 	
+Deathrattle: Summon a 5/1 Revenant. Politer than his brother, the cursing disciple, but far more evil.
+Dark Pact	Common	Spell		 Warlock	1 			
+Destroy a friendly minion. Restore 4 Health to your hero. "Don't worry about the fine print. Just sign here."
+Deck of Wonders	Epic	Spell		 Mage	5 			
+Shuffle 5 Scrolls into your deck. When drawn, cast a random spell. "Pick a card, any card. Wait! No! Not that one!" - Last words of previous owner
+Dire Mole	Common	Minion	Beast	 Any	1 	1 	3 	
+You especially don't want to make a dire mountain out of a dire mole hill.
+Dragon Soul	Legendary	Weapon		 Priest	3 	0 	3 	
+After you cast 3 spells in a turn, summon a 5/5 Dragon. Crafted by Deathwing's goblin horde, but the dragon added the rainbow sparkles himself.
+Dragon's Fury	Epic	Spell		 Mage	5 			
+Reveal a spell from your deck. Deal damage equal to its Cost to all minions. "C'mon Hucklemuck. She'll never notice if we take just one little coin."
+Dragoncaller Alanna	Legendary	Minion	General	 Mage	9 	3 	3 	
+Battlecry: Summon a 5/5 Dragon for each spell you cast this game that costs (5) or more. Her secret is using a gentle voice and carrying a baggie of hotdogs.
+Dragonhatcher	Epic	Minion	General	 Any	9 	2 	4 	
+At the end of your turn, Recruit a Dragon. Which came first? The dragon or the dragonhatcher?
+Dragonslayer	Common	Minion	General	 Any	3 	4 	3 	
+Battlecry: Deal 6 damage to a Dragon. A pair of stout dwarves nearly averted the Cataclysm.
+Drygulch Jailor	Common	Minion	General	 Paladin	2 	1 	1 	
+Deathrattle: Add 3 Silver Hand Recruits to your hand. Hard time: 6-10 turns for candle-nappin'.
+Drywhisker Armorer	Common	Minion	General	 Warrior	2 	2 	2 	
+Battlecry: For each enemy minion, gain 2 Armor. Kobolds use anything for armor: Pots, pans, garbage cans... even other kobolds.
+Duskbreaker	Rare	Minion	Dragon	 Priest	4 	3 	3 	
+Battlecry: If you're holding a Dragon, deal 3 damage to all other minions. Waking up at the break of dusk is just not as impressive.
+Ebon Dragonsmith	Rare	Minion	Dragon	 Any	4 	3 	4 	
+Battlecry: Reduce the Cost of a random weapon in your hand by (2). Having a furnace-mouth is really handy for a blacksmith.
+Elven Minstrel	Rare	Minion	General	 Rogue	4 	3 	2 	
+Combo: Draw 2 minions from your deck. "After that gig in Hamlin went south, I swore off rats."
+Evasion	Epic	Spell		 Rogue	2 			
+Secret: After your hero takes damage, become Immune this turn. Works on weapons, missiles, and taxes.
+Explosive Runes	Rare	Spell		 Mage	3 			
+Secret: After your opponent plays a minion, deal 6 damage to it and any excess to their hero. Sometimes it's safer NOT to read the warning signs.
+Fal'dorei Strider	Epic	Minion	General	 Rogue	4 	4 	4 	
+Battlecry: Shuffle 3 Ambushes into your deck. When drawn, summon a 4/4 Spider. What's worse? Seeing the spider, or NOT seeing the spider, but knowing it's somewhere in your deck?
+Feral Gibberer	Rare	Minion	General	 Any	1 	1 	1 	
+After this minion attacks a hero, add a copy of it to your hand. It's certainly not civilized gibbering.
+Flanking Strike	Common	Spell		 Hunter	4 			
+Deal 3 damage to a minion. Summon a 3/3 Wolf. Wolves to the left and arrows to the right, here I am stuck in the middle with you.
+Fungal Enchanter	Common	Minion	General	 Any	3 	3 	3 	
+Battlecry: Restore 2 Health to all friendly characters. Qualifications: Born with pointy hat.
+Fungalmancer	Common	Minion	General	 Any	5 	2 	2 	
+Battlecry: Give adjacent minions +2/+2. Fungalmancy is the easy major for those who can't cut it at Waxmancy.
+Furbolg Mossbinder	Rare	Minion	General	 Any	5 	1 	1 	
+Battlecry: Transform a friendly minion into a 6/6 Elemental. Behold, the unstoppable power of MOSS!
+Gather Your Party	Rare	Spell		 Warrior	6 			
+Recruit a minion. Thrilling adventure! Danger guaranteed! Loot uncertain! Death optional! Who's with me?
+Gemstudded Golem	Common	Minion	General	 Warrior	6 	5 	9 	
+Taunt. Can only attack if you have 5 or more Armor. Perfectly accessorized to attract adventurers.
+Geosculptor Yip	Legendary	Minion	General	 Warrior	8 	4 	8 	
+At the end of your turn, summon a random minion with Cost equal to your Armor (up to 10). Once crafted a gauntlet out of earwax and pure ambition.
+Gilded Gargoyle	Common	Minion	General	 Priest	3 	2 	2 	
+Deathrattle: Add a Coin to your hand. You hear a coin rattling inside the slotted gargoyle... What could it mean?
+Grand Archivist	Epic	Minion	General	 Any	8 	4 	7 	
+At the end of your turn, cast a spell from your deck (targets chosen randomly). Qualifications: Found pointy hat.
+Gravelsnout Knight	Rare	Minion	General	 Any	1 	2 	3 	
+Battlecry: Summon a random 1-Cost minion for your opponent. The mole of La Mancha rides again!
+Greedy Sprite	Rare	Minion	General	 Druid	3 	3 	1 	
+Deathrattle: Gain an empty Mana Crystal. Sparkliest of the seven deadly sprites.
+Green Jelly	Common	Minion	General	 Any	5 	3 	3 	
+At the end of your turn, summon a 1/2 Ooze with Taunt. This card really breaks out of the mold.
+Grizzled Guardian	Rare	Minion	Beast	 Druid	8 	3 	5 	
+Taunt
+Deathrattle: Recruit 2 minions that cost (4) or less. Favorite sandwich? Grizzled cheese.
+Grumble, Worldshaker	Legendary	Minion	Elemental	 Shaman	6 	7 	7 	
+Battlecry: Return your other minions to your hand. They cost (1). The grumbling grew to a mighty rumbling, and out of the caverns the kobolds came tumbling.
+Guild Recruiter	Common	Minion	General	 Any	5 	2 	4 	
+Battlecry: Recruit a minion that costs (4) or less. The original telemarketer.
+Healing Rain	Common	Spell		 Shaman	3 			
+Restore 12 Health divided randomly among all friendly characters. It's filled with electrolytes!
+Hoarding Dragon	Common	Minion	Dragon	 Any	4 	5 	6 	
+Deathrattle: Give your opponent two Coins. Keeps his two cents to himself.
+Hooked Reaver	Rare	Minion	Demon	 Warlock	4 	4 	4 	
+Battlecry: If you have 15 or less Health, gain +3/+3 and Taunt. The hook is just an accessory. He can reave just fine without it.
+Hungry Ettin	Rare	Minion	General	 Any	6 	4 	10 	
+Taunt
+Battlecry: Summon a random 2-Cost minion for your opponent. How can he be hungry… if he's Ettin!?
+Ironwood Golem	Common	Minion	General	 Druid	4 	3 	6 	
+Taunt
+Can only attack if you have 3 or more Armor. Marketed as a "rust-proof iron golem."
+Ixlid, Fungal Lord	Legendary	Minion	General	 Druid	5 	2 	4 	
+After you play a minion, summon a copy of it. We suggest crafting Ixlid; he'll grow on you. Literally.
+Kathrena Winterwisp	Legendary	Minion	General	 Hunter	8 	6 	6 	
+Battlecry and Deathrattle: Recruit a Beast. She’s not one of those treehugger elves – but she does like the occasional cuddle.
+King Togwaggle	Legendary	Minion	General	 Any	8 	5 	5 	
+Battlecry: Swap decks with your opponent. Give them a Ransom spell to swap back. Management of the Kobold Empire requires a careful balance between a lack of social services and fiscal irresponsibility.
+Kingsbane	Legendary	Weapon		 Rogue	1 	1 	3 	
+Always keeps enchantments. Deathrattle: Shuffle this into your deck. But it has a soft spot for emperors.
+Kobold Apprentice	Common	Minion	General	 Any	3 	2 	1 	
+Battlecry: Deal 3 damage randomly split among all enemies. Horrible secret: The Darkness is immune to Arcane Missiles.
+Kobold Barbarian	Rare	Minion	General	 Warrior	3 	4 	4 	
+At the start of your turn, attack a random enemy. What is best in life? To make candle. To keep candle. To hear lamentation of candle-takers.
+Kobold Hermit	Common	Minion	General	 Shaman	2 	1 	1 	
+Battlecry: Choose a basic Totem. Summon it. To truly understand candles, it takes YEARS of quiet contemplation.
+Kobold Illusionist	Rare	Minion	General	 Rogue	4 	3 	3 	
+Deathrattle: Summon a 1/1 copy of a minion from your hand. He can make ANYTHING look like a candle.
+Kobold Librarian	Common	Minion	General	 Warlock	1 	2 	1 	
+Battlecry: Draw a card. Deal 2 damage to your hero. Kobolds sort books using a gooey decimal system.
+Kobold Monk	Rare	Minion	General	 Any	4 	3 	6 	
+Your hero can't be targeted by spells or Hero Powers. There is no candle.
+Lesser Amethyst Spellstone	Rare	Spell		 Warlock	4 			
+Lifesteal. Deal 3 damage to a minion. (Take damage from your cards to upgrade.) A purple stone Azari carved
+For dark hearts, craving, power-starved.
+The first to bow, the warlock Rin,
+Embraced the darkness, slew her kin.
+Lesser Diamond Spellstone	Rare	Spell		 Priest	7 			
+Resurrect 2 different friendly minions. (Cast 4 spells to upgrade.) A diamond, white, this stone the eighth
+A precious jewel for those of faith
+A whispered prayer restores the lost
+But none among them know the cost.
+Lesser Emerald Spellstone	Rare	Spell		 Hunter	6 			
+Summon two 3/3 Wolves. (Play a Secret to upgrade.) An emerald stone for Tauren hands
+Who sought its strength to save their lands
+Their tribes now lost, their rage released
+Who's hunting now? And who's the beast?
+Lesser Jasper Spellstone	Rare	Spell		 Druid	1 			
+Deal 2 damage to a minion. (Gain 3 Armor to upgrade.) In ancient woods, elves fought the curse
+The demon's shadow to disperse
+But hatred raged and frail souls turned
+Now horned and hooved their forests burned.
+Lesser Mithril Spellstone	Rare	Spell		 Warrior	7 			
+Summon one 5/5 Mithril Golem. (Equip a weapon to upgrade.) To dwarves of stone the demon called
+With promises of might, enthralled
+In grasping greed they found their doom
+Forever bound in mithril tombs.
+Lesser Onyx Spellstone	Rare	Spell		 Rogue	5 			
+Destroy 1 random enemy minion. (Play 3 Deathrattle cards to upgrade.) The trolls of old embraced the gift
+A jewel of black for daggers swift
+No party lasts who finds the stone
+Those wielding it soon stand alone.
+Lesser Pearl Spellstone	Rare	Spell		 Paladin	2 			
+Summon a 2/2 Spirit with Taunt. (Restore 3 Health to upgrade.) In ages old, when Ancients broke
+Azari of the Legion spoke
+To tempt the mortals: gems of power
+The weak succumbed, their souls devoured.
+Lesser Ruby Spellstone	Rare	Spell		 Mage	2 			
+Add a random Mage spell to your hand. (Play two Elementals to upgrade.) The final stone undid its master
+Spun into wards by nameless caster
+Azari wailed a savage roar
+Now sealed in nether, evermore.
+Lesser Sapphire Spellstone	Rare	Spell		 Shaman	7 			
+Summon 1 copy of a friendly minion. (Overload 3 Mana Crystals to upgrade.) A stone of blue, embraced with glee
+By murloc lords beneath the sea
+Soon numberless they swarmed the shore
+First two, then four, then more...and more...
+Level Up!	Epic	Spell		 Paladin	6 			
+Give your Silver Hand Recruits +2/+2 and Taunt. Ding!
+Grats.
+Leyline Manipulator	Rare	Minion	Elemental	 Mage	4 	4 	5 	
+Battlecry: If you're holding any cards that didn't start in your deck, reduce their Cost by (2). The shortest distance between two points is a leyline.
+Lone Champion	Rare	Minion	General	 Any	3 	2 	4 	
+Battlecry: If you control no other minions, gain Taunt and Divine Shield. He is a champion, with no friends. He'll keep on fighting, til the end!
+Lynessa Sunsorrow	Legendary	Minion	General	 Paladin	7 	1 	1 	
+Battlecry: Cast each spell you cast on your minions this game on this one. A diet of pure magic is great for the complexion but wreaks havoc on one's mood.
+Marin the Fox	Legendary	Minion	General	 Any	8 	6 	6 	
+Battlecry: Summon a 0/8 Treasure Chest for your opponent. (Break it for awesome loot!) My name is Marin the Fox. You took my treasure. Prepare to die.
+Master Oakheart	Legendary	Minion	General	 Any	9 	5 	5 	
+Battlecry: Recruit a 1, 2, and 3-Attack minion. His adventuring party consists of Goldshire Footman, Frostwolf Grunt and Hadronox.
+Murmuring Elemental	Rare	Minion	Elemental	 Shaman	2 	1 	1 	
+Battlecry: Your next Battlecry this turn triggers twice. Déjà Dude.
+Oaken Summons	Common	Spell		 Druid	4 			
+Gain 6 Armor. Recruit a minion that costs (4) or less. The Guild used oak tress until they all turned to ash.
+Plated Beetle	Common	Minion	Beast	 Any	2 	2 	3 	
+Deathrattle: Gain 3 Armor. "Ok, your party has defeated the beetle." "I put it on my head." "What?" "I put it on my head. Like a hat."
+Possessed Lackey	Rare	Minion	General	 Warlock	6 	2 	2 	
+Deathrattle: Recruit a Demon. If you don't keep up with your payments, it'll be a repossessed lackey.
+Potion of Heroism	Common	Spell		 Paladin	2 			
+Give a minion Divine Shield. Draw a card. Also known as "Liquid Courage."
+Primal Talismans	Rare	Spell		 Shaman	3 			
+Give your minions "Deathrattle: Summon a random basic Totem." All that remained from the first kobold colony: a single talisman and the word "Flamestrike."
+Psionic Probe	Common	Spell		 Priest	1 			
+Copy a spell in your opponent's deck and add it to your hand. She prefers calling it "Psionic Tickling."
+Psychic Scream	Epic	Spell		 Priest	7 			
+Shuffle all minions into your opponent's deck. Everybody! Hit the deck!
+Raven Familiar	Common	Minion	Beast	 Mage	2 	2 	2 	
+Battlecry: Reveal a spell in each deck. If yours costs more, draw it. Quoth the raven, 'Does yours cost more?'
+Reckless Flurry	Epic	Spell		 Warrior	3 			
+Spend all your Armor. Deal that much damage to all minions. Look. Cautious Flurries will only get you so far in life.
+Rhok'delar	Legendary	Weapon		 Hunter	7 	4 	2 	
+Battlecry: If your deck has no minions, fill your hand with Hunter spells. Rhok'delar is ready to Rhok'de'casbah!
+Rummaging Kobold	Epic	Minion	General	 Any	3 	1 	3 	
+Battlecry: Return one of your destroyed weapons to your hand. "Broken longsword is brand new shortsword." - Kobold Proverb
+Scorp-o-matic	Rare	Minion	Mech	 Any	2 	1 	2 	
+Battlecry: Destroy a minion with 1 or less Attack. Back in my day, we had to manually scorp.
+Seeping Oozeling	Rare	Minion	General	 Hunter	6 	5 	4 	
+Battlecry: Gain the Deathrattle of a random minion in your deck. Uh, you might want to get that looked at.
+Sewer Crawler	Common	Minion	General	 Any	3 	1 	1 	
+Battlecry: Summon a 2/3 Giant Rat. His clothing is "ratty" in more ways than one.
+Shifting Scroll	Common	Spell		 Mage				
+Each turn this is in your hand, transform it into a random Mage spell. Next turn, this is going to be AMAZING.
+Shimmering Courser	Epic	Minion	Beast	 Any	4 	3 	3 	
+Only you can target this with spells and Hero Powers. A courser is a courser of course, of course, she's more of a unicorn than a horse...
+Shrieking Shroom	Rare	Minion	General	 Any	3 	1 	2 	
+At the end of your turn, summon a random 1-Cost minion. Auditioning for the next Fungal Idol.
+Shroom Brewer	Common	Minion	General	 Any	4 	4 	4 	
+Battlecry: Restore 4 Health. Side effects guaranteed!
+Silver Vanguard	Common	Minion	General	 Any	7 	3 	3 	
+Deathrattle: Recruit an 8-Cost minion. Float like a Faerie Dragon, sting like a Hivequeen.
+Skull of the Man'ari	Legendary	Weapon		 Warlock	5 	0 	3 	
+At the start of your turn, summon a Demon from your hand. Don't trust the skull.
+Sleepy Dragon	Common	Minion	Dragon	 Any	9 	4 	12 	
+Taunt Local villagers call her "Naps Under the Mountain."
+Sneaky Devil	Common	Minion	Demon	 Any	4 	2 	2 	
+Stealth
+Your other minions have +1 Attack. The result of a tragic accident involving a Defias Thug, a Wand of Polymorph, and a bundle of Fel Lotus.
+Sonya Shadowdancer	Legendary	Minion	General	 Rogue	3 	2 	2 	
+Whenever a friendly minion dies, add a 1/1 copy of it to your hand. It costs (1). Love like you've never been hurt. Dance like a 1/1 is watching.
+Spiteful Summoner	Epic	Minion	General	 Any	7 	4 	4 	
+Battlecry: Reveal a spell from your deck. Summon a random minion with the same Cost. Sometimes she'll summon a Doomsayer. Out of spite.
+Stoneskin Basilisk	Common	Minion	Beast	 Any	3 	1 	1 	
+Divine Shield
+Poisonous He got that way from looking into a mirror.
+Sudden Betrayal	Common	Spell		 Rogue	2 			
+Secret: When a minion attacks your hero, instead it attacks one of its neighbours. You thought he was your bro-bold, but turns out he's your foe-bold.
+Temporus	Legendary	Minion	Dragon	 Priest	7 	6 	6 	
+Battlecry: Your opponent takes two turns. Then you take two turns. Follows adventurers, seeking the ultimate time magic: the ability to reload.
+The Darkness	Legendary	Minion	General	 Any	4 	20 	20 	
+Starts dormant. Battlecry: Shuffle 3 Candles into the enemy deck. When drawn, this awakens. I would rather light a single candle than curse the darkness. But I'm willing to do both.
+The Runespear	Legendary	Weapon		 Shaman	8 	3 	3 	
+After your hero attacks, Discover a spell and cast it with random targets. When asked what the runes do, the tauren smith smiled: "A little of this, a little of that..."
+To My Side!	Epic	Spell		 Hunter	6 			
+Summon an Animal
+Companion, or 2 if your
+deck has no minions. I hunt alone. Well, me and Misha. And Huffer. And Leokk.
+Toothy Chest	Common	Minion	General	 Any	3 	0 	4 	
+At the start of your turn, set this minion's Attack to 4. Do you want to eat an adventurer? I want to eat an adventurer!
+Trogg Gloomeater	Common	Minion	General	 Any	5 	1 	5 	
+Taunt
+Poisonous His breath smells like agony and despair, which is still better than most troggs.
+Twig of the World Tree	Legendary	Weapon		 Druid	4 	1 	5 	
+Deathrattle: Gain 10 Mana Crystals. For druids who want to branch out.
+Twilight Acolyte	Epic	Minion	General	 Priest	3 	2 	4 	
+Battlecry: If you're holding a Dragon, swap this minion's Attack with another minion's. The dragons mostly keep him around as a snack.
+Twilight's Call	Rare	Spell		 Priest	3 			
+Summon 1/1 copies of 2 friendly Deathrattle minions that died this game. If you're experiencing resurrection sickness, press 1.
+Unidentified Elixir	Common	Spell		 Priest	3 			
+Give a minion +2/+2.
+Gains a bonus effect in your hand. "Here, taste this." (Slurp) "What is it?" "I don't know, I found it in one of the labs."
+Unidentified Maul	Rare	Weapon		 Paladin	3 	2 	2 	
+Gains a bonus effect in your hand. When all you have is an unidentified maul, everything else looks like an unidentified nail.
+Unidentified Shield	Common	Spell		 Warrior	6 			
+Gain 5 Armor. Gains a bonus effect in your hand. The kobold stared at the bundle for a long time. "Ah hah!" he said. "It's a shield."
+Unstable Evolution	Epic	Spell		 Shaman	1 			
+Transform a friendly minion into one that costs (1) more. Repeatable this turn. They grow up so fast.
+Val'anyr	Legendary	Weapon		 Paladin	6 	4 	2 	
+Deathrattle: Give a minion in your hand +4/+2. When it dies, reequip this. Recently unearthed in one of the deepest kobold caves. Traded for a large candle.
+Violet Wurm	Common	Minion	Beast	 Any	8 	7 	7 	
+Deathrattle: Summon seven 1/1 Grubs. It's wurms all the way down.
+Void Ripper	Epic	Minion	Demon	 Any	3 	3 	3 	
+Battlecry: Swap the Attack and Health of all other minions. You had to put the portable hole inside the bag of holding, didn't you?!
+Voidlord	Epic	Minion	Demon	 Warlock	9 	3 	9 	
+Taunt
+Deathrattle: Summon three 1/3 Demons with Taunt. Never let it hold your checkbook.
+Vulgar Homunculus	Common	Minion	Demon	 Warlock	2 	2 	4 	
+Taunt
+Battlecry: Deal 2 damage to your hero. Fortunately he has an even number of fingers.
+Wandering Monster	Rare	Spell		 Hunter	2 			
+Secret: When an enemy attacks your hero, summon a 3-Cost minion as the new target. Not all who wander are lost. This one is lost though, for sure.
+Wax Elemental	Common	Minion	Elemental	 Any	1 	0 	2 	
+Taunt
+Divine Shield Takes double damage from wick-based weapons
+Windshear Stormcaller	Epic	Minion	General	 Shaman	5 	5 	5 	
+Battlecry: If you control all 4 basic Totems, summon Al'akir the Windlord. Don't ever doubt Al'Akir's love for basic totems.
+Woecleaver	Legendary	Weapon		 Warrior	8 	3 	3 	
+After your hero attacks, Recruit a minion. Turn that frown into TWO frowns!
+Zola the Gorgon	Legendary	Minion	General	 Any	3 	2 	2 	
+Battlecry: Choose a friendly minion. Add a Golden copy of it to your hand. Her name seems a bit cheesy.

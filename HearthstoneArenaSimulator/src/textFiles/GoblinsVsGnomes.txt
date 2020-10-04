@@ -1,0 +1,246 @@
+Clockwork Gnome	Common	Minion	Mech	 Any	1 	2 	1 	
+Deathrattle: Add a Spare Part card to your hand. Clockwork gnomes are always asking what time it is.
+Cogmaster	Common	Minion	General	 Any	1 	1 	2 	
+Has +2 Attack while you have a Mech. After a while, you don't see the cogs and sprockets. All you see is a robot, a spider tank, a deathray...
+Warbot	Common	Minion	Mech	 Warrior	1 	1 	3 	
+Has +1 Attack while damaged. Mass production of warbots was halted when it was discovered that they were accidentally being produced at "sample size."
+Annoy-o-Tron	Common	Minion	Mech	 Any	2 	1 	2 	
+Taunt Divine Shield The inventor of the Annoy-o-Tron was immediately expelled from Tinkerschool, Tinkertown, and was eventually exiled from the Eastern Kingdoms altogether.
+Anodized Robo Cub	Common	Minion	Mech	 Druid	2 	2 	2 	
+Taunt. Choose One - +1 Attack; or +1 Health. It's adorable! AND OH MY GOODNESS WHY IS IT EATING MY FACE
+Crackle	Common	Spell		 Shaman	2 			
+Deal 3-6 damage. Overload: (1) Snap! This card! Pop!
+Darkbomb	Common	Spell		 Warlock	2 			
+Deal 3 damage. If you're looking to make an "Emo" deck, this card is perfect!
+Explosive Sheep	Common	Minion	Mech	 Any	2 	1 	1 	
+Deathrattle: Deal 2 damage to all minions. How is this supposed to work? Your enemies think, "Hey! Cute sheep!" and run over to cuddle it?
+Flamecannon	Common	Spell		 Mage	2 			
+Deal 4 damage to a random enemy minion. Calling something a flamecannon really doesn't do much to distinguish it from other goblin devices.
+Gilblin Stalker	Common	Minion	General	 Any	2 	2 	3 	
+Stealth "Shhh, I think I hear something." "Ah, it's probably nothing." - Every Henchman
+Glaivezooka	Common	Weapon		 Hunter	2 	2 	2 	
+Battlecry: Give a random friendly minion +1 Attack. For the times when a regular bazooka just isn't enough.
+Goblin Auto-Barber	Common	Minion	Mech	 Rogue	2 	3 	2 	
+Battlecry: Give your weapon +1 Attack. This guy is excellent at adjusting your haircut and/or height.
+Mechwarper	Common	Minion	Mech	 Any	2 	2 	3 	
+Your Mechs cost (1) less. Mechs that summon mechs? What's next? Donuts that summon donuts? Mmmmm.
+Micro Machine	Common	Minion	Mech	 Any	2 	1 	2 	
+At the start of each turn, gain +1 Attack. This card is the real thing.
+Puddlestomper	Common	Minion	Murloc	 Any	2 	3 	2 	
+He pays homage to Morgl, the great murloc oracle! (Who doesn't??)
+Seal of Light	Common	Spell		 Paladin	2 			
+Restore 4 Health to your hero and gain +2 Attack this turn. The walrus of Light restores EIGHT Health.
+Shielded Minibot	Common	Minion	Mech	 Paladin	2 	2 	2 	
+Divine Shield He chooses to believe what he is programmed to believe!
+Ship's Cannon	Common	Minion	General	 Any	2 	2 	3 	
+After you summon a Pirate, deal 2 damage to a random enemy. If you hear someone yell, "Cannonball!" you're about to get wet. Or crushed.
+Shrinkmeister	Common	Minion	General	 Priest	2 	3 	2 	
+Battlecry: Give a minion -2 Attack this turn. After the debacle of the Gnomish World Enlarger, gnomes are wary of size-changing inventions.
+Snowchugger	Common	Minion	Mech	 Mage	2 	2 	3 	
+Freeze any character damaged by this minion. Do the slow chant when he waddles by: "Chug! Chug! Chug!"
+Stonesplinter Trogg	Common	Minion	General	 Any	2 	2 	3 	
+Whenever your opponent casts a spell, gain +1 Attack. The only thing worse than smelling troggs is listening to their poetry.
+Whirling Zap-o-matic	Common	Minion	Mech	 Shaman	2 	3 	2 	
+Windfury If you pay a little extra, you can get it in "candy-apple red."
+Flying Machine	Common	Minion	Mech	 Any	3 	1 	4 	
+Windfury To operate, this contraption needs a hula doll on the dashboard. Otherwise it's just a “falling machine.”
+Gnomeregan Infantry	Common	Minion	General	 Any	3 	1 	4 	
+Charge Taunt The gnomes are valiant and ready to return to their irradiated, poorly ventilated homeland!
+Ogre Brute	Common	Minion	General	 Any	3 	4 	4 	
+50% chance to attack the wrong enemy. Ogres have really terrible short-term chocolate.
+Ogre Warmaul	Common	Weapon		 Warrior	3 	4 	2 	
+50% chance to attack the wrong enemy. Simple, misguided, and incredibly dangerous. You know, like most things ogre.
+Spider Tank	Common	Minion	Mech	 Any	3 	3 	4 	
+"What if we put guns on it?" -Fizzblitz, staring at the spider-transportation-machine
+Tinkertown Technician	Common	Minion	General	 Any	3 	3 	3 	
+Battlecry: If you have a Mech, gain +1/+1 and add a Spare Part to your hand. Won't you take me to... Tinkertown?
+Velen's Chosen	Common	Spell		 Priest	3 			
+Give a minion +2/+4 and Spell Damage +1. Velen wrote a "Lovely Card" for Tyrande with a picture of the Deeprun Tram that said "I Choo-Choo-Choose you!"
+Burly Rockjaw Trogg	Common	Minion	General	 Any	4 	3 	5 	
+Whenever your opponent casts a spell, gain +2 Attack. He's burly because he does CrossFit.
+Lost Tallstrider	Common	Minion	Beast	 Any	4 	5 	4 	
+The message, "If found, please return to Mulgore," is tattooed on his rear.
+Mechanical Yeti	Common	Minion	Mech	 Any	4 	4 	5 	
+Deathrattle: Give each player a Spare Part. The yetis of Chillwind Point are a source of both inspiration and savage beatings.
+Piloted Shredder	Common	Minion	Mech	 Any	4 	4 	3 	
+Deathrattle: Summon a random 2-Cost minion. Once upon a time, only goblins piloted shredders. These days, everyone from Doomsayer to Lorewalker Cho seems to ride one.
+Tinker's Sharpsword Oil	Common	Spell		 Rogue	4 			
+Give your weapon +3 Attack. Combo: Give a random friendly minion +3 Attack. "Get ready to strike oil!" - Super-cheesy battle cry
+Antique Healbot	Common	Minion	Mech	 Any	5 	3 	3 	
+Battlecry: Restore 8 Health to your hero. They don't make 'em like they used to! (Because of explosions, mostly.)
+Cobra Shot	Common	Spell		 Hunter	5 			
+Deal 3 damage to a minion and the enemy hero. "Cobra Shot" hurts way, way, way more than "Cobra Cuddle."
+Druid of the Fang	Common	Minion	General	 Druid	5 	4 	4 	
+Battlecry: If you have a Beast, transform this minion into a 7/7. The Druids of the Fang live in the Wailing Caverns. They wear cool snake shirts and tell snake jokes and say "bro" a lot.
+Floating Watcher	Common	Minion	Demon	 Warlock	5 	4 	4 	
+Whenever your hero takes damage on your turn, gain +2/+2. "Evil Eye Watcher of Doom" was the original name, but marketing felt it was a bit too aggressive.
+Salty Dog	Common	Minion	Pirate	 Any	5 	7 	4 	
+He's recently recovered from being a "scurvy dog."
+Force-Tank MAX	Common	Minion	Mech	 Any	8 	7 	7 	
+Divine Shield There is a factory in Tanaris for crafting force-tanks, but it only ever made two, because of cost overruns.
+Target Dummy	Rare	Minion	Mech	 Any	0 	0 	2 	
+Taunt The engineering equivalent of a "Kick Me" sticker.
+Light of the Naaru	Rare	Spell		 Priest	1 			
+Restore 3 Health. If the target is still damaged, summon a Lightwarden. "Light it up!" - Command given to both Lightwardens and Goblins holding Flamecannons.
+Call Pet	Rare	Spell		 Hunter	2 			
+Draw a card. If it's a Beast, it costs (4) less. Real hunters tame hungry crabs.
+One-eyed Cheat	Rare	Minion	Pirate	 Rogue	2 	4 	1 	
+Whenever you summon a Pirate, gain Stealth. When pirates say there is no "Eye" in "team," they are very literal about it.
+Queen of Pain	Rare	Minion	Demon	 Warlock	2 	1 	4 	
+Lifesteal Her sister is the Queen of Pane who sells windows and shower doors.
+Shadowboxer	Rare	Minion	Mech	 Priest	2 	2 	3 	
+Whenever a minion is healed, deal 1 damage to a random enemy. Punching is its primary function. Also, its secondary function.
+Unstable Portal	Rare	Spell		 Mage	2 			
+Add a random minion to your hand. It costs (3) less. The denizens of Azeroth have no idea how much work goes into stabilizing portals. We spend like 30% of GDP on portal upkeep.
+Vitality Totem	Rare	Minion	Totem	 Shaman	2 	0 	3 	
+At the end of your turn, restore 4 Health to your hero. You can usually find these at the totemist's market on Saturdays.
+Gnomish Experimenter	Rare	Minion	General	 Any	3 	3 	2 	
+Battlecry: Draw a card. If it's a minion, transform it into a Chicken. He's legitimately surprised every time he turns himself into a chicken.
+Goblin Sapper	Rare	Minion	General	 Any	3 	2 	4 	
+Has +4 Attack while your opponent has 6 or more cards in hand. He’s not such a binge exploder anymore. These days, he only explodes socially.
+Grove Tender	Rare	Minion	General	 Druid	3 	2 	4 	
+Choose One - Give each player a Mana Crystal; or Each player draws a card. Likes: Hiking and the great outdoors. Dislikes: Goblin shredders and sandals. (Can’t find any that fit!).
+Illuminator	Rare	Minion	General	 Any	3 	2 	4 	
+If you control a Secret at the end of your turn, restore 4 Health to your hero. "LUMOS!" is not what they yell. What do you think this is, Hogwarts?
+Iron Sensei	Rare	Minion	Mech	 Rogue	3 	2 	2 	
+At the end of your turn, give another friendly Mech +2/+2. Mechs like learning from him because he really speaks their language. 0110100001101001
+Lil' Exorcist	Rare	Minion	General	 Any	3 	2 	3 	
+Taunt Battlecry: Gain +1/+1 for each enemy Deathrattle minion. Warlocks have the town exorcist on speed dial in case they unleash the wrong demon.
+Metaltooth Leaper	Rare	Minion	Mech	 Hunter	3 	3 	3 	
+Battlecry: Give your other Mechs +2 Attack. Don't leave them out in the rain. In Un'Goro Crater there is a whole colony of rust-tooth leapers.
+Muster for Battle	Rare	Spell		 Paladin	3 			
+Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon. "I'm bringing the guacamole!" – One of the most successful (yet rare) Silver Hand rallying cries
+Powermace	Rare	Weapon		 Shaman	3 	3 	2 	
+Deathrattle: Give a random friendly Mech +2/+2. People assume that shamans control the elements, but really, they have to ask them stuff and the elements are like, "Yeah ok, sure."
+Scarlet Purifier	Rare	Minion	General	 Paladin	3 	4 	3 	
+Battlecry: Deal 2 damage to all minions with Deathrattle. The Scarlet Crusade is doing market research to find out if the "Mauve Crusade" would be better received.
+Soot Spewer	Rare	Minion	Mech	 Mage	3 	3 	3 	
+Spell Damage +1 The inventor of the goblin shredder is involved in several patent disputes with the inventor of the soot spewer.
+Arcane Nullifier X-21	Rare	Minion	Mech	 Any	4 	2 	5 	
+Taunt Can't be targeted by spells or Hero Powers. There was some hard talk between gnome magi and engineers about inventing this mech.
+Dunemaul Shaman	Rare	Minion	General	 Shaman	4 	5 	4 	
+Windfury, Overload: (1) 50% chance to attack the wrong enemy. He just closes his eyes and goes for it. Raarararrrarar!
+Fel Cannon	Rare	Minion	Mech	 Warlock	4 	3 	5 	
+At the end of your turn, deal 2 damage to a non-Mech minion. The box says, "New and improved, with 200% more fel!"
+Goblin Blastmage	Rare	Minion	General	 Mage	4 	5 	4 	
+Battlecry: If you have a Mech, deal 4 damage randomly split among all enemies. If you can't find a bomb to throw, just pick up any goblin invention and throw that.
+Imp-losion	Rare	Spell		 Warlock	4 			
+Deal 2-4 damage to a minion. Summon a 1/1 Imp for each damage dealt. The shrapnel is waaaaay worse than the explosion.
+Jeeves	Rare	Minion	Mech	 Any	4 	1 	4 	
+At the end of each player's turn, that player draws until they have 3 cards. This robot is a lean, mean, butlerin' machine.
+Kezan Mystic	Rare	Minion	General	 Any	4 	4 	3 	
+Battlecry: Take control of a random enemy Secret. They pretend to be wise and enlightened, but they mostly just hate to be left out of a secret.
+Screwjank Clunker	Rare	Minion	Mech	 Warrior	4 	2 	5 	
+Battlecry: Give a friendly Mech +2/+2. If it breaks, just kick it a couple of times while yelling "Durn thing!"
+Bomb Lobber	Rare	Minion	General	 Any	5 	3 	3 	
+Battlecry: Deal 4 damage to a random enemy minion. He lobbies Orgrimmar daily on behalf of bombs.
+Cobalt Guardian	Rare	Minion	Mech	 Paladin	5 	6 	3 	
+Whenever you summon a Mech, gain Divine Shield. Guardians used to be built out of Adamantium, but production got moved to Gadgetzan and Cobalt was cheap.
+King of Beasts	Rare	Minion	Beast	 Hunter	5 	2 	6 	
+Taunt. Battlecry: Gain +1 Attack for each other Beast you have. He never sleeps. Not even in the mighty jungle.
+Madder Bomber	Rare	Minion	General	 Any	5 	5 	4 	
+Battlecry: Deal 6 damage randomly split between all other characters. Dang, Bomber, calm down.
+Ogre Ninja	Rare	Minion	General	 Rogue	5 	6 	6 	
+Stealth 50% chance to attack the wrong enemy. He didn't have the grades to get into ninja school, but his dad pulled some strings.
+Siege Engine	Rare	Minion	Mech	 Warrior	5 	5 	5 	
+Whenever you gain Armor, give this minion +1 Attack. Wintergrasp Keep's only weakness!
+Upgraded Repair Bot	Rare	Minion	Mech	 Priest	5 	5 	5 	
+Battlecry: Give a friendly Mech +4 Health. It's the same as the previous generation but they slapped the word "upgraded" on it to sell it for double.
+Mech-Bear-Cat	Rare	Minion	Mech	 Druid	6 	7 	6 	
+Whenever this minion takes damage, add a Spare Part card to your hand. Crushes buildings with his BEAR hands.
+Recycle	Rare	Spell		 Druid	6 			
+Shuffle an enemy minion into your opponent's deck. Druidic recycling involves putting plastics in one bin and enemy minions in another bin.
+Shieldmaiden	Rare	Minion	General	 Warrior	6 	5 	5 	
+Battlecry: Gain 5 Armor. She has three shieldbearers in her party to supply her with back ups when she gets low on durability.
+Shadowbomber	Epic	Minion	General	 Priest	1 	2 	1 	
+Battlecry: Deal 3 damage to each hero. Shadowbomber does her job, but she's kind of phoning it in at this point.
+Feign Death	Epic	Spell		 Hunter	2 			
+Trigger all Deathrattles on your minions. The hardest part about doing a "Feign Death" convincingly is learning how to make the right smell. It takes a lot of commitment.
+Recombobulator	Epic	Minion	General	 Any	2 	3 	2 	
+Battlecry: Transform a friendly minion into a random minion with the same Cost. For when you didn’t combobulate quite right the first time around.
+Steamwheedle Sniper	Epic	Minion	General	 Hunter	2 	2 	3 	
+Your Hero Power can target minions. Goblins seldom have the patience for sniping. Most prefer lobbing explosives.
+Bouncing Blade	Epic	Spell		 Warrior	3 			
+Deal 1 damage to a random minion. Repeat until a minion dies. Only goblins would think this was a good idea. Even they are starting to have their doubts.
+Coghammer	Epic	Weapon		 Paladin	3 	2 	3 	
+Battlecry: Give a random friendly minion Divine Shield and Taunt. So you ripped this out of a machine, carved some runes on it, stuck it on a handle, and now it's a weapon of great divine power? Seems legit.
+Cogmaster's Wrench	Epic	Weapon		 Rogue	3 	1 	3 	
+Has +2 Attack while you have a Mech. For tightening cogs and smashin' troggs!
+Hobgoblin	Epic	Minion	General	 Any	3 	2 	3 	
+Whenever you play a 1-Attack minion, give it +2/+2. Hobgoblins are meeting next week to discuss union benefits. First on the list: dental plan.
+Ancestor's Call	Epic	Spell		 Shaman	4 			
+Put a random minion from each player's hand into the battlefield. "Hey! Ancestors!" - Ancestor's call
+Echo of Medivh	Epic	Spell		 Mage	4 			
+Put a copy of each friendly minion into your hand. Medivh's echo haunts Karazhan, eternally cheating at chess and Hearthstone.
+Enhance-o Mechano	Epic	Minion	Mech	 Any	4 	3 	2 	
+Battlecry: Give your other minions Windfury, Taunt, or Divine Shield. (at random) His enhancements are gluten free!
+Mini-Mage	Epic	Minion	General	 Any	4 	4 	1 	
+Stealth Spell Damage +1 He is sometimes found hiding in the treasure chest in the Gurubashi Arena.
+Sabotage	Epic	Spell		 Rogue	4 			
+Destroy a random enemy minion. Combo: And your opponent's weapon. Rogues can't stand it. They know you planned it! They are going to set you straight!
+Siltfin Spiritwalker	Epic	Minion	Murloc	 Shaman	4 	2 	5 	
+Whenever another friendly Murloc dies, draw a card. Overload: (1) The elements respond to anyone who calls them for a worthy cause, even if you call them by yelling, "MRGHRGLGLGL!"
+Wee Spellstopper	Epic	Minion	General	 Mage	4 	2 	5 	
+Adjacent minions can't be targeted by spells or Hero Powers. Bane of spellcasters and spelling bees everywhere.
+Demonheart	Epic	Spell		 Warlock	5 			
+Deal 5 damage to a minion. If it's a friendly Demon, give it +5/+5 instead. Virtually every member of the pro demon lobby is a warlock. Weird.
+Fel Reaver	Epic	Minion	Mech	 Any	5 	8 	8 	
+Whenever your opponent plays a card, remove the top 3 cards of your deck. So reaver. Much fel. Wow.
+Junkbot	Epic	Minion	Mech	 Any	5 	1 	5 	
+Whenever a friendly Mech dies, gain +2/+2. One bot's junk is another bot's AWESOME UPGRADE!
+Quartermaster	Epic	Minion	General	 Paladin	5 	2 	5 	
+Battlecry: Give your Silver Hand Recruits +2/+2. His specialty? Dividing things into four pieces.
+Anima Golem	Epic	Minion	Mech	 Warlock	6 	9 	9 	
+At the end of each turn, destroy this minion if it's your only one. The Dark Animus is evil and mysterious and huge and unable to write sentences that utilize proper grammar.
+Dark Wispers	Epic	Spell		 Druid	6 			
+Choose One - Summon 5 Wisps; or Give a minion +5/+5 and Taunt. Don't worry; we fired the person who named this card.
+Lightbomb	Epic	Spell		 Priest	6 			
+Deal damage to each minion equal to its Attack. This is what happens when you allow goblins to be priests.
+Piloted Sky Golem	Epic	Minion	Mech	 Any	6 	6 	4 	
+Deathrattle: Summon a random 4-Cost minion. The pinnacle of goblin engineering. Includes an espresso machine and foot massager.
+Crush	Epic	Spell		 Warrior	7 			
+Destroy a minion. If you have a damaged minion, this costs (4) less. Using this card on your enemies is one of the best things in life, according to some barbarians.
+Tree of Life	Epic	Spell		 Druid	9 			
+Restore all characters to full Health. Healing: It grows on trees!
+Clockwork Giant	Epic	Minion	Mech	 Any	12 	8 	8 	
+Costs (1) less for each card in your opponent's hand. He and Mountain Giant don't get along.
+Blingtron 3000	Legendary	Minion	Mech	 Any	5 	3 	4 	
+Battlecry: Equip a random weapon for each player. PREPARE PARTY SERVOS FOR IMMEDIATE DEPLOYMENT.
+Bolvar Fordragon	Legendary	Minion	General	 Paladin	5 	1 	7 	
+Whenever a friendly minion dies while this is in your hand, gain +1 Attack. Spoiler alert: Bolvar gets melted and then sits on an ice throne and everyone forgets about him.
+Hemet Nesingwary	Legendary	Minion	General	 Any	5 	6 	3 	
+Battlecry: Destroy a Beast. It's hard to make a living as a hunter in a world where beasts instantly reappear minutes after you kill them.
+Mimiron's Head	Legendary	Minion	Mech	 Any	5 	4 	5 	
+At the start of your turn, if you have at least 3 Mechs, destroy them all and form V-07-TR-0N. Do not push the big red button!
+Vol'jin	Legendary	Minion	General	 Priest	5 	6 	2 	
+Battlecry: Swap Health with another minion. Vol'jin is a shadow hunter, which is like a shadow priest except more voodoo.
+Gazlowe	Legendary	Minion	General	 Any	6 	3 	6 	
+Whenever you cast a 1-mana spell, add a random Mech to your hand. Gazlowe was voted "Most Likely to Explode" in high school.
+Iron Juggernaut	Legendary	Minion	Mech	 Warrior	6 	6 	5 	
+Battlecry: Shuffle a Mine into your opponent's deck. When drawn, it explodes for 10 damage. The Iron Juggernaut guards Orgrimmar and has just earned the "Employee of the Month" award!
+Mogor the Ogre	Legendary	Minion	General	 Any	6 	7 	6 	
+All minions have a 50% chance to attack the wrong enemy. Mogor helped reopen the Dark Portal once. You know you're in trouble when you have to rely on an ogre.
+Toshley	Legendary	Minion	General	 Any	6 	5 	7 	
+Battlecry and Deathrattle: Add a Spare Part card to your hand. Something about power converters.
+Trade Prince Gallywix	Legendary	Minion	General	 Rogue	6 	5 	8 	
+Whenever your opponent casts a spell, gain a copy of it and give them a Coin. Gallywix believes in supply and demand. He supplies the beatings and demands you pay up!
+Dr. Boom	Legendary	Minion	General	 Any	7 	7 	7 	
+Battlecry: Summon two 1/1 Boom Bots. WARNING: Bots may explode. MARVEL AT HIS MIGHT!
+Flame Leviathan	Legendary	Minion	Mech	 Mage	7 	7 	7 	
+When you draw this, deal 2 damage to all characters. Mimiron likes to take the Flame Leviathan out on some sweet joyrides.
+Gahz'rilla	Legendary	Minion	Beast	 Hunter	7 	6 	9 	
+Whenever this minion takes damage, double its Attack. The Sen'jin High football team is The Gahz'rillas.
+Malorne	Legendary	Minion	Beast	 Druid	7 	9 	7 	
+Deathrattle: Shuffle this minion into your deck. When Malorne isn't mauling hordes of demons, he enjoys attending parties, though he prefers to go stag.
+Neptulon	Legendary	Minion	Elemental	 Shaman	7 	7 	7 	
+Battlecry: Add 4 random Murlocs to your hand. Overload: (3) Neptulon is "The Tidehunter". He’s one of the four elemental lords. And he and Ragnaros get together and make really amazing saunas.
+Troggzor the Earthinator	Legendary	Minion	General	 Any	7 	6 	6 	
+Whenever your opponent casts a spell, summon a Burly Rockjaw Trogg. He keeps earthinating the countryside despite attempts to stop him.
+Foe Reaper 4000	Legendary	Minion	Mech	 Any	8 	6 	9 	
+Also damages the minions next to whomever it attacks. Foe reaping is really not so different from harvest reaping, at the end of the day.
+Sneed's Old Shredder	Legendary	Minion	Mech	 Any	8 	5 	7 	
+Deathrattle: Summon a random Legendary minion. When Sneed was defeated in the Deadmines, his shredder was sold at auction to an anonymous buyer. (Probably Hogger.)
+Mal'Ganis	Legendary	Minion	Demon	 Warlock	9 	9 	7 	
+Your other Demons have +2/+2. Your hero is Immune. Mal'Ganis doesn't like being betrayed, so if you discard him, watch out.
+Mekgineer Thermaplugg	Legendary	Minion	Mech	 Any	9 	9 	7 	
+Whenever an enemy minion dies, summon a Leper Gnome. He was obsessed with

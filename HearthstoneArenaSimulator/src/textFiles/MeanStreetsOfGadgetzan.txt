@@ -1,0 +1,268 @@
+Abyssal Enforcer	Common	Minion	Demon	 Warlock	7 	6 	6 	
+Battlecry: Deal 3 damage to all other characters. The Kabal print this on every package of illicit Mana Crystals: WARNING - DO NOT PUT WITHIN REACH OF ABYSSALS. THIS IS NOT APPROVED FOR USE BY FLAMING DEMONS OF ANY KIND.
+Alley Armorsmith	Rare	Minion	General	 Warrior	5 	2 	7 	
+Taunt Whenever this minion deal damage, gain that much Armor. The rent is cheap and she passes the savings onto YOU!
+Alleycat	Common	Minion	Beast	 Hunter	1 	1 	1 	
+Battlecry: Summon a 1/1 Cat. To be a cool cat in Gadgetzan, you gotta have bling.
+Ancient of Blossoms	Common	Minion	General	 Any	6 	3 	8 	
+Taunt His new shampoo is really working!
+Auctionmaster Beardo	Legendary	Minion	General	 Any	3 	3 	4 	
+After you cast a spell, refresh your Hero Power. Gadgetzan has always run an under-the-table auction house, and business has been PRETTY good for Beardo since the population explosion. And since the explosion that destroyed the competing auction houses in the city.
+Aya Blackpaw	Legendary	Minion	General		6 	5 	3 	
+Battlecry and Deathrattle: Summon a Jade Golem. Though young, Aya took over as the leader of Jade Lotus through her charisma and strategic acumen when her predecessor was accidentally crushed by a jade golem.
+Backroom Bouncer	Rare	Minion	General	 Any	4 	4 	4 	
+Whenever a friendly minion dies, gain +1 Attack. "WHY ARE YOU IN THE BACK ROOM? WHO IS WATCHING THE FRONT?!"
+Backstreet Leper	Common	Minion	General	 Any	3 	3 	1 	
+Deathrattle: Deal 2 damage to the enemy hero. Quit playing games with his heart. And his fingers. And foot. It's rude.
+Big-Time Racketeer	Common	Minion	General	 Any	6 	1 	1 	
+Battlecry: Summon a 6/6 Ogre. "It'd be a shame if someone disenchanted those Legendaries."
+Blastcrystal Potion	Common	Spell		 Warlock	4 			
+Destroy a minion and one of your Mana Crystals. There's a fine line between "potion" and "grenade". Wait. Actually, there's not.
+Bloodfury Potion	Rare	Spell		 Warlock	3 			
+Give a minion +3 Attack. If it's a Demon, also give it +3 Health. You know what really makes my blood boil? The skyrocketing price of Bloodfury potions!
+Blowgill Sniper	Common	Minion	Murloc	 Any	2 	2 	1 	
+Battlecry: Deal 1 damage. Imagine how much further his darts would go if he had lungs instead of gills!
+Blubber Baron	Epic	Minion	General	 Any	3 	1 	1 	
+Whenever you summon a Battlecry minion while this is in your hand, gain +1/+1. When oil, railroad, steel, robber, and red are all already taken, your options are limited.
+Bomb Squad	Rare	Minion	General	 Any	5 	2 	2 	
+Battlecry: Deal 5 damage to an enemy minion. Deathrattle: Deal 5 damage to your hero. Please don't explode! Please don't explode! Please don't explode!
+Brass Knuckles	Epic	Weapon		 Warrior	4 	2 	3 	
+After your hero attacks, give a random minion in your hand +1/+1. For the goon that wants to make a fashion statement.
+Burgly Bully	Epic	Minion	General	 Any	5 	4 	6 	
+Whenever your opponent casts a spell, add a Coin to your hand. He only burgles to pay the bills. He is really just a bully at heart.
+Call in the Finishers	Common	Spell		 Shaman	4 			
+Summon four 1/1 Murlocs. When you really need a job done… but you don't really care if it gets done right.
+Celestial Dreamer	Rare	Minion	General	 Druid	3 	3 	3 	
+Battlecry: If you control a minion with 5 or more Attack, gain +2/+2. If you think her job is easy, YOU try falling asleep on cue.
+Counterfeit Coin	Rare	Spell		 Rogue	0 			
+Gain 1 Mana Crystal this turn only. There is something funny about this coin… can't quite put my finger on it…
+Cryomancer	Common	Minion	General	 Mage	5 	5 	5 	
+Battlecry: If an enemy is Frozen, gain +2/+2. She loves Frozen. I mean who doesn't?
+Crystalweaver	Common	Minion	General	 Warlock	4 	5 	4 	
+Battlecry: Give your Demons +1/+1. The trick is soaking the crystals in warm milk to soften them up.
+Daring Reporter	Common	Minion	General	 Any	4 	3 	3 	
+Whenever your opponent draws a card, gain +1/+1. She's working on a story! While skydiving!
+Defias Cleaner	Epic	Minion	General	 Any	6 	5 	7 	
+Battlecry: Silence a minion with Deathrattle. His house cleaning service is quite thorough. Not a spot to be found... or any of your stuff!
+Devolve	Rare	Spell		 Shaman	2 			
+Transform all enemy minions into random ones that cost (1) less. Ragnaros looked down. He looked like some kind of War Golem. "WHAT HAVE YOU DONE TO ME," he yelled. But all that came out was a deep grinding sound. He began to cry.
+Dirty Rat	Epic	Minion	General	 Any	2 	2 	6 	
+Taunt
+Battlecry: Your opponent summons a random minion from their hand. It's not his fault… Someone keeps stealing his soap!
+Dispatch Kodo	Rare	Minion	Beast	 Hunter	4 	2 	4 	
+Battlecry: Deal damage equal to this minion's Attack. "Crime reported at First Bank of Gadgetzan. Huge quantities of Jade being carried away by what looks like a bunch of Hozen. Kodo 77 can you make it over there now?"
+Don Han'Cho	Legendary	Minion	General		7 	5 	6 	
+Battlecry: Give a random minion in your hand +5/+5. The brilliant mastermind of the Grimy Goons, Han sometimes thinks about ditching the idiot Cho, but that would just tear him apart.
+Doppelgangster	Rare	Minion	General	 Any	5 	2 	2 	
+Battlecry: Summon 2 copies of this minion. "Every me, get in here!"
+Dragonfire Potion	Epic	Spell		 Priest	6 			
+Deal 5 damage to all minions except Dragons. No one was brave enough to fire the dragon in person… so they made the potion do it.
+Drakonid Operative	Rare	Minion	Dragon	 Priest	5 	5 	6 	
+Battlecry: If you're holding a Dragon, Discover a card in your opponent's deck. His job is to spy on the Goons and the Jade Lotus, but he's OBVIOUSLY a dragon so it's pretty hard work.
+Fel Orc Soulfiend	Epic	Minion	General	 Any	3 	3 	7 	
+At the start of your turn, deal 2 damage to this minion. "Doc says the persistent burning sensation in my soul is probably just an ulcer."
+Felfire Potion	Rare	Spell		 Warlock	6 			
+Deal 5 damage to all characters. Kazakus has a squad of imps bottling Felfire round-the-clock and he *still* can't keep up with demand.
+Fight Promoter	Epic	Minion	General	 Any	6 	4 	4 	
+Battlecry: If you control a minion with 6 or more Health, draw two cards. "Yeah, I can get you Knuckles. No, no, he's been clean for *weeks*."
+Finders Keepers	Epic	Spell		 Shaman	1 			
+Discover a card with Overload. Overload: (1) INFINITE LOOP!
+Finja, the Flying Star	Legendary	Minion	Murloc	 Any	5 	2 	4 	
+Stealth. Whenever this attacks and kills a minion, summon 2 Murlocs from your deck. The last true master of Finjitsu.
+Freezing Potion	Common	Spell		 Mage	0 			
+Freeze an enemy. This is delicious! Oh no. BRAIN FREEEEEEEZE!
+Friendly Bartender	Common	Minion	General	 Any	2 	2 	3 	
+At the end of your turn, restore 1 Health to your Hero. "What'll it be? A Jade Brew? A Grimy Goose? A Kabal Manatini?"
+Gadgetzan Ferryman	Rare	Minion	General	 Rogue	2 	2 	3 	
+Combo: Return a friendly minion to your hand. Is it just me, or is there something fishy about that ferryman?
+Gadgetzan Socialite	Common	Minion	General	 Any	2 	2 	2 	
+Battlecry: Restore 2 Health. Comment on her height, and she'll go from flapper to kneecapper in seconds flat.
+Genzo, the Shark	Legendary	Minion	General	 Any	4 	5 	4 	
+Whenever this attacks, both players draw until they have 3 cards. Infamous in the seedy underground card rooms of Gadgetzan, he got his nickname winning the coveted Shark Plushie in the city's first Hearthstone tournament.
+Getaway Kodo	Rare	Spell		 Paladin	1 			
+Secret: When a friendly minion dies, return it to your hand. Get to da Kodo! Now!
+Greater Arcane Missiles	Epic	Spell		 Mage	7 			
+Shoot three missiles at random enemies that deal 3 damage each. Wow, and I thought Arcane Missiles was great!
+Greater Healing Potion	Rare	Spell		 Priest	4 			
+Restore 12 health to a friendly character. Filled with electrolytes!
+Grimestreet Enforcer	Rare	Minion	General	 Paladin	5 	4 	4 	
+At the end of your turn, give all minions in your hand +1/+1. "Sir, you don't have a permit to park your mount here."
+Grimestreet Informant	Rare	Minion	General		2 	1 	1 	
+Battlecry: Discover a Hunter, Paladin or Warrior card. "Naw, naw. You're talkin' about Grime BOULEVARD. I ain't know nuthin' 'bout that."
+Grimestreet Outfitter	Common	Minion	General	 Paladin	2 	1 	1 	
+Battlecry: Give all minions in your hand +1/+1. If you bargain hard, he'll throw in the hat.
+Grimestreet Pawnbroker	Rare	Minion	General	 Warrior	3 	3 	3 	
+Battlecry: Give a random weapon in your hand +1/+1. "I don't know a lot about used GvG cards, so I'm going to have to call in an expert."
+Grimestreet Protector	Rare	Minion	General	 Paladin	7 	6 	6 	
+Taunt
+Battlecry: Give adjacent minions Divine Shield. Some new asphalt should do the trick.
+Grimestreet Smuggler	Common	Minion	General		3 	2 	4 	
+Battlecry: Give a random minion in your hand +1/+1 She's got anything you want. Need the latest derpinger? No problem!
+Grimscale Chum	Common	Minion	Murloc	 Paladin	1 	2 	1 	
+Battlecry: Give a random Murloc in your hand +1/+1. Listen, see? We'll take 'em to the docks, see? And throw 'em in the sea, see?
+Grimy Gadgeteer	Common	Minion	General	 Warrior	4 	4 	3 	
+At the end of your turn, give a random minion in your hand +2/+2. "You look like a Gadgetgun 3000-Mark IV man, am I right?"
+Grook Fu Master	Common	Minion	General	 Any	5 	3 	5 	
+Windfury Grook Fu, the ancient Hozen art of bashing heads with a stick.
+Hidden Cache	Rare	Spell		 Hunter	2 			
+Secret: After your opponent plays a minion, give a random minion in your hand +2/+2. There is an urban legend that the first Opponent’s strike provoked the determination of geeks, ghouls,rats,bots and minions to cross the road from curious to downright needing answers from secret cache holders.
+Hired Gun	Common	Minion	General	 Any	3 	4 	3 	
+Taunt He loves his job and would do it for free! (But don't tell his boss!)
+Hobart Grapplehammer	Legendary	Minion	General	 Warrior	2 	2 	2 	
+Battlecry: Give all weapons in your hand and deck +1 Attack. Grapplehammer is the horrible mind behind the Automatic Piranha Launcher (banned in 7 districts)!
+Hozen Healer	Common	Minion	General	 Any	4 	2 	6 	
+Battlecry: Restore a minion to full Health. He didn't go to school for healing, but we keep losing all the good healers to Ratchet, so I guess we'll take him.
+I Know a Guy	Common	Spell		 Warrior	1 			
+Discover a Taunt minion. Well… a guy who knows a guy.
+Inkmaster Solia	Legendary	Minion	General	 Mage	7 	5 	5 	
+Battlecry: If your deck has no duplicates, the next spell you cast this turn costs (0). Solia marks the Kabal with intricate tattoos that grant immense power. Also it makes it harder for other gangs to recruit from their numbers. BACK OFF, GOONS.
+Jade Behemoth	Common	Minion	General	 Druid	6 	3 	6 	
+Taunt
+Battlecry: Summon a Jade Golem. I think we should talk about the jade elephant in the room.
+Jade Blossom	Common	Spell		 Druid	3 			
+Summon a Jade Golem. Gain an empty Mana Crystal. Meditating under a jade blossom is said to grant you wisdom, unless you have a pollen allergy.
+Jade Chieftain	Common	Minion	General	 Shaman	7 	5 	5 	
+Battlecry: Summon a Jade Golem. Give it Taunt. Seeing his Jade Golem grow up into the tall, handsome 6/6 standing before him was the proudest moment of his life.
+Jade Claws	Rare	Weapon		 Shaman	2 	2 	2 	
+Battlecry: Summon a Jade Golem. Overload: (1) "Best manicure ever!" - Aya Blackpaw
+Jade Idol	Rare	Spell		 Druid	1 			
+Choose One - Summon a Jade Golem; or Shuffle 3 copies of this card into your deck. Shuffle or no guts.
+Jade Lightning	Common	Spell		 Shaman	4 			
+Deal 4 damage. Summon a Jade Golem. Jade Lightning, goooo Jade Lightning!
+Jade Shuriken	Common	Spell		 Rogue	2 			
+Deal 2 damage. Combo: Summon a Jade Golem. Good news is, after you remove it from your wound, you can use it to pay your medical bills!
+Jade Spirit	Common	Minion	Elemental		4 	2 	3 	
+Battlecry: Summon a Jade Golem. "He's so cute! I just want to squeeze him, then use him for Jade Golem parts!" - Aya Blackpaw
+Jade Swarmer	Common	Minion	General	 Rogue	2 	1 	1 	
+Stealth, Deathrattle: Summon a Jade Golem. He's so good at swarming, he can swarm all by himself!
+Jinyu Waterspeaker	Rare	Minion	General	 Shaman	4 	3 	6 	
+Battlecry: Restore 6 Health. Overload: (1) Waterspeakers can tell the future! So the Jade Lotus employs them to speculate on the Auction House.
+Kabal Chemist	Common	Minion	General		4 	3 	3 	
+Battlecry: Add a random Potion to your hand. Sure you could have that Polymorph potion, but wouldn't you rather have this mystery potion? It could be anything. Even a Polymorph potion!
+Kabal Courier	Rare	Minion	General		3 	2 	2 	
+Battlecry: Discover a Mage, Priest or Warlock card. Hey, you park your kodo under a harpy nest, you get what you deserve.
+Kabal Crystal Runner	Rare	Minion	General	 Mage	6 	5 	5 	
+Costs (2) less for each Secret you've played this game. "Listen, I can cut you in on a little of this premium mana, but you can't tell my boss."
+Kabal Lackey	Common	Minion	General	 Mage	1 	2 	1 	
+Battlecry: The next Secret you play this turn costs (0). I'll tell you one thing he doesn't lack: GUMPTION.
+Kabal Songstealer	Common	Minion	General	 Priest	5 	5 	5 	
+Battlecry: Silence a minion. Gadgetzan Writer’s Award goes to the player who writes the most compelling fanfic about why this Arrakoa has a golden frog in his hand!
+Kabal Talonpriest	Common	Minion	General	 Priest	3 	3 	4 	
+Battlecry: Give a friendly minion +3 Health. Inkmaster Solia had to figure out how to tatoo feathers.
+Kabal Trafficker	Epic	Minion	General	 Warlock	6 	6 	6 	
+At the end of your turn, add a random Demon to your hand. She ships illicit mana crystals around the world in packages marked: FUNNEL CAKE.
+Kazakus	Legendary	Minion	General		4 	3 	3 	
+Battlecry: If your deck has no duplicates, create a custom spell. The mysterious leader of the Kabal is NOT a dragon, and does NOT deal in illegal potions. Any public statements to the contrary will be met with litigation and Dragonfire Potions.
+Knuckles	Legendary	Minion	Beast	 Hunter	5 	3 	7 	
+After this attacks a minion, it also hits the enemy hero. When confronted with accusations of performance-enhancing bananas, Knuckles replied, "I get my fruit from trees I knock down with my bare hands like everyone else."
+Kooky Chemist	Common	Minion	General	 Any	4 	4 	4 	
+Battlecry: Swap the Attack and Health of a minion. #abs
+Krul the Unshackled	Legendary	Minion	Demon	 Warlock	9 	7 	9 	
+Battlecry: If your deck has no duplicates, summon all Demons from your hand. Spicklefizz pondered his life choices as he looked at the chain around his neck. "Become a warlock," they said. "You get to enslave demons," they said.
+Kun the Forgotten King	Legendary	Minion	General	 Druid	10 	7 	7 	
+Choose One - Gain 10 Armor; or Refresh your Mana Crystals. Aya siphons a bit of Kun's soul to animate each golem in her Jade army. To his credit, he's being a great sport about it.
+Leatherclad Hogleader	Epic	Minion	General	 Any	6 	6 	6 	
+Battlecry: If your opponent has 6 or more cards in hand, gain Charge. The Hogchoppers, the terrors of Tanaris, can always be found at one tavern or another in Gadgetzan, refueling for totally real and legit adventures that they go on.
+Lotus Agents	Rare	Minion	General		5 	5 	3 	
+Battlecry: Discover a Druid, Rogue or Shaman card. Mostly, they stand around and look cool.
+Lotus Assassin	Epic	Minion	General	 Rogue	5 	5 	5 	
+Stealth. Whenever this minion kills an enemy, gain Stealth. For 5000g, you can just give the Jade Lotus any name and they will assassinate and/or embarrass them.
+Lotus Illusionist	Epic	Minion	General	 Shaman	4 	3 	5 	
+After this minion attacks a hero, transform it into a random 6-Cost minion. If you think her Illidan and Sylvanas cosplay is great, wait till you see her Reno Jackson!
+Luckydo Buccaneer	Epic	Minion	Pirate	 Rogue	6 	5 	5 	
+Battlecry: If your weapon has at least 3 Attack, gain +4/+4. You can't just leave a Luckydo somewhere. You gotta keep 'em with you! Especially in Gadgetzan!
+Lunar Visions	Epic	Spell		 Druid	5 			
+Draw 2 cards. Minions drawn costs (2) less. The true mystery of lunar visions is how there is nothing to watch when there are so many channels.
+Madam Goya	Legendary	Minion	General	 Any	6 	4 	3 	
+Battlecry: Choose a friendly minion. Swap it with a minion in your deck. She has set up her Black Market here in Gadgetzan for one purpose, to make a KILLING when Beanie Babies make their inevitable comeback.
+Mana Geode	Epic	Minion	Elemental	 Priest	2 	2 	3 	
+Whenever this minion is healed, summon a 2/2 Crystal. Gadgetzan, where even the pet rocks have pet rocks.
+Manic Soulcaster	Epic	Minion	General	 Mage	3 	3 	4 	
+Battlecry: Choose a friendly minion. Shuffle a copy into your deck. When casting a tournament, you really have to put your soul into it!
+Mark of the Lotus	Common	Spell		 Druid	1 			
+Give your minions +1/+1. The mark of the Lotus is a little flower drawn in permanent marker on the ankle.
+Mayor Noggenfogger	Legendary	Minion	General	 Any	9 	5 	4 	
+All targets are chosen randomly. This flavor text was randomly generated. If it happens to form words and make sense, that is purely by chance.
+Meanstreet Marshal	Epic	Minion	General	 Paladin	1 	1 	2 	
+Deathrattle: If this minion has 2 or more Attack, draw a card. Remember, submit your bribes directly to the Marshal - it's the law!
+Mistress of Mixtures	Common	Minion	General	 Any	1 	2 	2 	
+Deathrattle: Restore 4 Health to each hero. Her favorite mixture is cola and lime.
+Naga Corsair	Common	Minion	Pirate	 Any	4 	5 	4 	
+Battlecry: Give your weapon +1 Attack. Hook-tails are nice and all but she keeps getting stuck on things.
+Patches the Pirate	Legendary	Minion	Pirate	 Any	1 	1 	1 	
+After you play a Pirate, summon this minion from your deck. What do sailors yell when Patches steals their treasure chest full of laws and other things being transported to parliament for a vote? "The Eyes have it!"
+Pilfered Power	Epic	Spell		 Druid	3 			
+Gain an empty Mana Crystal for each friendly minion. The Hozen don't get paid much, but at least they get to keep any excess mana.
+Pint-Size Potion	Rare	Spell		 Priest	1 			
+Give all enemy minions -3 Attack this turn only. I hope you didn't disenchant your Shadow Word: Horror!
+Piranha Launcher	Epic	Weapon		 Hunter	5 	2 	4 	
+Whenever your hero attacks, summon a 1/1 Piranha. A great improvement over the guppy launcher.
+Potion of Madness	Common	Spell		 Priest	1 			
+Gain control of an enemy minion with 2 or less Attack until the end of the turn. You'd be insane NOT to drink it!
+Potion of Polymorph	Rare	Spell		 Mage	3 			
+Secret: After your opponent plays a minion, transform it into a 1/1 Sheep. Tastes like Baaaaananas.
+Public Defender	Common	Minion	General	 Warrior	2 	0 	7 	
+Taunt Happy to defend any public offender!
+Rat Pack	Epic	Minion	Beast	 Hunter	3 	2 	2 	
+Deathrattle: Summon a number of 1/1 Rats equal to this minion's Attack. He's gonna do it his way.
+Raza the Chained	Legendary	Minion	General	 Priest	5 	5 	5 	
+Battlecry: If your deck has no duplicates, your Hero Power costs (1) this game. "Could you do me a favor and get the keys from Kazakus?"
+Red Mana Wyrm	Common	Minion	General	 Any	5 	2 	6 	
+Whenever you cast a spell, gain +2 Attack. It has double the Attack. "Go on." And double the Health. "Yes??" And its trigger has twice the effect. "WHAT???" And it costs… Five times more.
+Seadevil Stinger	Rare	Minion	Murloc	 Warlock	4 	4 	2 	
+Battlecry: The next Murloc you play this turn costs Health instead of Mana. Pretty harmless unless you're a Seadevil.
+Second-Rate Bruiser	Rare	Minion	General	 Any	5 	4 	5 	
+Taunt. Costs (2) less if your opponent has at least three minions. He'll be a first-rate bruiser once he gets used to his contacts.
+Sergeant Sally	Legendary	Minion	General	 Any	3 	1 	1 	
+Deathrattle: Deal damage equal to the minion's Attack to all enemy minions. "Who is she? Where did she come from? We don't even have a police force here in Gadgetzan!!" - Mayor Noggenfogger
+Shadow Rager	Common	Minion	General	 Rogue	3 	5 	1 	
+Stealth WE WENT THERE!
+Shadow Sensei	Rare	Minion	General	 Rogue	4 	4 	4 	
+Battlecry: Give a Stealth minion +2/+2. He used to be Aya's tutor, but she fired him for bugging her too much.
+Shaku, the Collector	Legendary	Minion	General	 Rogue	3 	2 	3 	
+Stealth. Whenever this minions attacks, add a random card to your hand (from your opponent's class). Aya even staged an intervention once, but Shaku still insists that he is not a hoarder.
+Shaky Zipgunner	Common	Minion	General	 Hunter	3 	3 	3 	
+Deathrattle: Give a random minion in your hand +2/+2. The Grimy Goons can get you any weapon you want but if you want it to not explode you gotta pay extra.
+Sleep with the Fishes	Epic	Spell		 Warrior	2 			
+Deal 3 damage to all damaged minions. If you're sleeping with the fishes, we highly suggest not bringing an electric blanket.
+Small-Time Buccaneer	Rare	Minion	Pirate	 Any	1 	1 	1 	
+Has +2 Attack while you have a weapon equipped. "Oh, I'm not serious about it. I only pirate on the weekends."
+Small-Time Recruits	Epic	Spell		 Paladin	3 			
+Draw three 1-Cost minions from your deck. Now we know why they wear tiny watches.
+Smuggler's Crate	Common	Spell		 Hunter	1 			
+Give a random Beast in your hand +2/+2. Are you sure these are the crates that are supposed to go to the Gadgetzan petting zoo?
+Smuggler's Run	Common	Spell		 Paladin	1 			
+All minions in your hand gain +1/+1. One of the most famous busts in Gadgetzan’s history happened on Smuggler’s Run, where Sergeant Sally apprehended a cadre of Grimy Goons transporting a massive number of illegal fish heads.
+Spiked Hogrider	Rare	Minion	General	 Any	5 	5 	5 	
+Battlecry: If an enemy minion has Taunt, gain Charge. Did you know the Hogchoppers compete every year at the Mirage Raceway? They do. It's a real group.
+Stolen Goods	Rare	Spell		 Warrior	2 			
+Give a random Taunt minion in your hand +3/+3. It fell off a kodo, I promise!
+Street Trickster	Common	Minion	Demon	 Any	3 	0 	7 	
+Spell Damage +1 His first trick: making your wallet disappear!
+Streetwise Investigator	Common	Minion	General	 Any	5 	4 	6 	
+Battlecry: Enemy minions lose Stealth. "Hmmmm… Call it a hunch, but I'm starting to think that there may be some kind of criminal activity going on in Gadgetzan."
+Tanaris Hogchopper	Common	Minion	General	 Any	4 	4 	4 	
+Battlecry: If your opponent's hand is empty, gain Charge. The Hogchoppers are well-known throughout Kalimdor for being a real, actual group.
+Toxic Sewer Ooze	Common	Minion	General	 Any	3 	4 	3 	
+Battlecry: Remove 1 Durability from your opponent's weapon. When Sergeant Sally shows up unexpectedly, DO NOT FLUSH YOUR MANA CRYSTALS DOWN THE TOILET.
+Trogg Beastrager	Rare	Minion	General	 Hunter	2 	3 	2 	
+Battlecry: Give a random Beast in your hand +1/+1. Still angry that the Gadgetzan Rager Club wouldn't accept him as a member.
+Unlicensed Apothecary	Epic	Minion	Demon	 Warlock	3 	5 	5 	
+After you summon a minion, deal 5 damage to your Hero. Get the ingredients wrong on ONE healing potion and they take your license. What a world!
+Virmen Sensei	Rare	Minion	General	 Druid	5 	4 	5 	
+Battlecry: Give a friendly Beast +2/+2. There is no carrot.
+Volcanic Potion	Rare	Spell		 Mage	3 			
+Deal 2 damage to all minions. The secret ingredient in Kazakus's award-winning chili recipe.
+Weasel Tunneler	Epic	Minion	Beast	 Any	1 	1 	1 	
+Deathrattle: Shuffle this minion into your opponent's deck. He's the reason the First Bank of Gadgetzan has steel floors.
+White Eyes	Legendary	Minion	General	 Shaman	5 	5 	5 	
+Taunt
+Deathrattle: Shuffle 'The Storm Guardian' into your deck. My life for Aya!
+Wickerflame Burnbristle	Legendary	Minion	General	 Paladin	3 	2 	2 	
+Divine Shield, Taunt, Lifesteal Wickerflame spent years as a recruit for the Goons, never making the big-time because he always fired his chest-cannon too slowly. "Hey," he thought, "maybe if I keep my beard lit on fire, I can do this faster." BOOM, promoted.
+Wind-up Burglebot	Epic	Minion	Mech	 Any	6 	5 	5 	
+Whenever this attacks a minion and survives, draw a card. Don't blame the bot for his crimes... Blame whoever keeps winding him up!
+Worgen Greaser	Common	Minion	General	 Any	4 	6 	3 	
+Hair products are 79% of his monthly budget.
+Wrathion	Legendary	Minion	General	 Any	6 	4 	5 	
+Taunt. Battlecry: Draw cards until you draw one that isn't a Dragon. Wrathion, son of Deathwing, is a dragon. Why isn't he tagged as a dragon, you ask? WHAT, ARE YOU TRYING TO BLOW HIS COVER??

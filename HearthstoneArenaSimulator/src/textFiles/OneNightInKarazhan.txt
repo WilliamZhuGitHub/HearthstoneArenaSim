@@ -1,0 +1,92 @@
+Arcane Anomaly	Common	Minion	Elemental	 Any	1 	2 	1 	
+Whenever you cast a spell, give this minion +1 Health. He used to get work as a Spatial Anomaly, but he got tired of having his polarity reversed.
+Arcane Giant	Epic	Minion	General	 Any	12 	8 	8 	
+Costs (1) less for each spell you've cast this game. Claims to be drawn to Karazhan because of the ley lines. Actually, just loves Moroes’ cooking.
+Arcanosmith	Common	Minion	General	 Any	4 	3 	2 	
+Battlecry: Summon a 0/5 minion with Taunt. He’s really just a Blacksmith, but he thought the fancy title would bring in more business.
+Avian Watcher	Rare	Minion	General	 Any	5 	3 	6 	
+Battlecry: If you control a Secret, gain +1/+1 and Taunt. He mostly watches light romantic comedies.
+Babbling Book	Rare	Minion	General	 Mage	1 	1 	1 	
+Battlecry: Add a random Mage spell to your hand. His idol is the Green Hills of Stranglethorn, and he won't shut up about it.
+Barnes	Legendary	Minion	General	 Any	5 	3 	4 	
+Battlecry: Summon a 1/1 copy of a random minion in your deck. He used to play every part, until Moroes confiscated his Orb of Deception.
+Book Wyrm	Rare	Minion	Dragon	 Any	6 	3 	6 	
+Battlecry: If you're holding a Dragon, destroy an enemy minion with 3 Attack or less. His favorites are classic tragedies like "The Hobbit" and "Grendel".
+Cat Trick	Rare	Spell		 Hunter	2 			
+Secret: After your opponent casts a spell, summon a 4/2 Panther with Stealth. "I know some new tricks, a lot of good tricks. I will show them to you. Medivh will not mind at all if I do."
+Cloaked Huntress	Common	Minion	General	 Hunter	3 	3 	4 	
+Your Secrets cost (0). She's practically GIVING your secrets away!
+Deadly Fork	Common	Minion	General	 Rogue	3 	3 	2 	
+Deathrattle: Add a 3/2 weapon to your hand. For a proper setting, place the deadly fork after the salad fork, but before the dinner fork.
+Enchanted Raven	Common	Minion	Beast	 Druid	1 	2 	2 	
+Once upon a midnight restive, Medivh pondered, feeling festive!
+Ethereal Peddler	Rare	Minion	General	 Rogue	5 	5 	6 	
+Battlecry: If you're holding any cards from another class, reduce their Cost by (2). Yeah, sure. That Ragnaros "fell off the back of a truck".
+Firelands Portal	Common	Spell		 Mage	7 			
+Deal 5 damage. Summon a random 5-Cost minion. Come to beautiful Firelands! Where it's "Way nicer than the Abyssal Maw!"'
+Fool's Bane	Common	Weapon		 Warrior	5 	3 	4 	
+Unlimited attacks each turn. Can't attack heroes. A fool and his bane are soon parted.
+Ironforge Portal	Common	Spell		 Warrior	5 			
+Gain 4 Armor. Summon a random 4-Cost minion. Come to beautiful Ironforge! Where irons are forged and the forges are iron!
+Ivory Knight	Rare	Minion	General	 Paladin	6 	4 	4 	
+Battlecry: Discover a spell. Restore Health to your hero equal to its Cost. Do NOT call it a "horse".
+Kara Kazham!	Common	Spell		 Warlock	5 			
+Summon a 1/1 Candle, 2/2 Broom, and 3/3 Teapot. This is what happens when you tell Khadgar to set the table.
+Kindly Grandmother	Common	Minion	Beast	 Hunter	2 	1 	1 	
+Deathrattle: Summon a 3/2 Big Bad Wolf. "Goodness! What… abundant drool you have."
+Maelstrom Portal	Rare	Spell		 Shaman	2 			
+Deal 1 damage to all enemy minions. Summon a random 1-Cost minion. They bill this as a popular resort attraction, but they try and get your money up front.
+Malchezaar's Imp	Common	Minion	Demon	 Warlock	1 	1 	3 	
+Whenever you discard a card, draw a card. Malchezaar used to have an imp named Dobby working for him, but there was a tragic accident.
+Medivh's Valet	Common	Minion	General	 Mage	2 	2 	3 	
+Battlecry: If you control a Secret, deal 3 damage. "Magus Medivh sir, I've brought the flaming balloons, as you requested."
+Medivh, the Guardian	Legendary	Minion	General	 Any	8 	7 	7 	
+Battlecry:Equip Atiesh, Greatstaff of the Guardian. If you think the party's great now, just wait 'til he invites the orcs over!
+Menagerie Magician	Common	Minion	General	 Any	5 	4 	4 	
+Battlecry: Give a random Beast, Dragon and Murloc +2/+2. Just between us, if things get tight the Menagerie Magician position will probably be the first to go.
+Menagerie Warden	Common	Minion	General	 Druid	6 	5 	5 	
+Battlecry: Choose a friendly Beast. Summon a copy of it. Please? Can I keep him? I promise to clean his cage every day.
+Moat Lurker	Rare	Minion	General	 Any	6 	3 	3 	
+Battlecry: Destroy a minion. Deathrattle: Resummon it. He really enjoys lurking and gets a lot of job satisfaction out of it.
+Moonglade Portal	Rare	Spell		 Druid	6 			
+Restore 6 Health. Summon a random 6-Cost minion. Ain't no party like a Moonglade party ‘cause a Moonglade party got bears.
+Moroes	Legendary	Minion	General	 Any	3 	1 	1 	
+Stealth
+At the end of your turn, summon a 1/1 Steward. Moroes runs an army of stewards, but still ends up inflating the balloons himself.
+Netherspite Historian	Common	Minion	General	 Any	2 	1 	3 	
+Battlecry: If you're holding a Dragon, Discover a Dragon. She can tell you all about the history of people not STANDING IN THE GREEN BEAM!
+Nightbane Templar	Common	Minion	General	 Paladin	3 	2 	3 	
+Battlecry: If you're holding a Dragon, summon two 1/1 Whelps. Originally joined to be Arcanagos’ Templar, but has to admit that ordering pizza has become waaaay easier.
+Onyx Bishop	Rare	Minion	General	 Priest	5 	3 	4 	
+Battlecry: Summon a friendly minion that died this game. B4 is a nice place to visit, but he wouldn't want to live there.
+Pantry Spider	Common	Minion	Beast	 Any	3 	1 	3 	
+Battlecry: Summon a 1/3 Spider. You have to admit, they make a cute couple.
+Pompous Thespian	Common	Minion	General	 Any	2 	3 	2 	
+Taunt Alas poor Annoy-o-Tron! A fellow of infinite jest, of most excellent fancy!
+Priest of the Feast	Common	Minion	General	 Priest	4 	3 	6 	
+Whenever you cast a spell, restore 3 Health to your hero. Now that's a world champion cheesecake!
+Prince Malchezaar	Legendary	Minion	Demon	 Any	5 	5 	6 	
+Start of Game: Add 5 extra Legendary minions to your deck. He was super excited to acquire Gorehowl at a garage sale! Then super disappointed to find out it was a foam reproduction.
+Protect the King!	Rare	Spell		 Warrior	3 			
+For each enemy minion, summon a 1/1 Pawn with Taunt. Form ranks! Everyone into the King's Tuskarr Defense!
+Purify	Common	Spell		 Priest	2 			
+Silence a friendly minion. Draw a card. Even better than a hot shower with vigorous scrubbing!
+Runic Egg	Common	Minion	General	 Any	1 	0 	2 	
+Deathrattle: Draw a card. Oh man! Runic omelettes are the best!
+Silvermoon Portal	Common	Spell		 Paladin	4 			
+Give a minion +2/+2. Summon a random 2-Cost minion. What's Millhouse Manastorm doing in Silvermoon?
+Silverware Golem	Rare	Minion	General	 Warlock	3 	3 	3 	
+If you discard this minion, summon it. From the secret research labs of the Swiss Army.
+Spirit Claws	Common	Weapon		 Shaman	2 	1 	3 	
+Has +2 Attack while you have Spell Damage. They'll be MUCH easier to use once they add the spirit thumb.
+Swashburglar	Common	Minion	Pirate	 Rogue	1 	1 	1 	
+Battlecry: Add a random card to your hand (from your opponent's class). Was almost named "Swashb-AAAARRHHH-gler"
+The Curator	Legendary	Minion	Mech	 Any	7 	4 	6 	
+Taunt
+Battlecry: Draw a Beast, Dragon, and Murloc from your deck. The Curator guards Azeroth’s deadliest creatures, but it’s secretly terrified of squirrels.
+Violet Illusionist	Common	Minion	General	 Any	3 	4 	3 	
+During your turn, your hero is Immune. She’s much more cheerful after losing the ‘n’ in her name.
+Wicked Witchdoctor	Common	Minion	General	 Shaman	4 	3 	4 	
+Whenever you cast a spell, summon a random basic Totem. You can easily defeat her by either dealing 4 damage, or dropping a house on her.
+Zoobot	Common	Minion	Mech	 Any	3 	3 	3 	
+Battlecry: Give a random friendly Beast, Dragon and Murloc +1/+1. The Murloc is taking the picture.

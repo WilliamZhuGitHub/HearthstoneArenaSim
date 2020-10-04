@@ -1,0 +1,302 @@
+Adaptation	Common	Spell		 Paladin	1 			
+Adapt a friendly minion. Pray for salvation. If that fails, pray for extra horns or bigger teeth.
+Air Elemental	Common	Minion	Elemental	 Shaman	1 	2 	1 	
+Can't be targeted by spells or Hero Powers. Makes a mean puff pastry.
+Arcanologist	Common	Minion	General	 Mage	2 	2 	3 	
+Battlecry: Draw a Secret from your deck. What did you draw? Shhhh… it’s a secret.
+Awaken the Makers	Legendary	Spell		 Priest	1 			
+Quest: Summon 7 Deathrattle minions.
+Reward: Amara, Warden of Hope. They keep hitting the Snooze button.
+Binding Heal	Common	Spell		 Priest	1 			
+Restore 5 Health to a minion and your hero. By accepting this healing, you agree to the following terms…
+Biteweed	Epic	Minion	General	 Rogue	2 	1 	1 	
+Combo: Gain +1/+1 for each other card you've played this turn. AKA Edwin VanLeaf.
+Bittertide Hydra	Epic	Minion	Beast	 Any	5 	8 	8 	
+Whenever this minion takes damage, deal 3 damage to your hero. It's actually only the middle head that's bitter. The others are sweet and spicy.
+Blazecaller	Epic	Minion	Elemental	 Any	7 	6 	6 	
+Battlecry: If you played an Elemental last turn, deal 5 damage. For when a flamecaller just won't do.
+Bloodbloom	Epic	Spell		 Warlock	2 			
+The next spell you cast this turn costs Health instead of Mana. Help save mana. Donate blood today!
+Bright-Eyed Scout	Epic	Minion	General	 Any	4 	3 	4 	
+Battlecry: Draw a card. Change its Cost to (5). Also inordinately excited for cupcakes.
+Charged Devilsaur	Epic	Minion	Beast	 Any	8 	7 	7 	
+Charge
+Battlecry: Can't attack heroes this turn. What happens when a dinosaur mixes soda and pop rocks.
+Chittering Tunneler	Epic	Minion	Beast	 Warlock	3 	3 	3 	
+Battlecry: Discover a spell.
+Deal damage to your hero equal to its Cost. Ear to the ground, he carefully interpreted the chittering noises: “You wanna cast a spell? I wanna cast a spell!”
+Clutchmother Zavas	Legendary	Minion	Beast	 Warlock	2 	2 	2 	
+Whenever you discard this, give it +2/+2 and return it to your hand. A bit of a snob: still refuses to drive anything with automatic transmission.
+Cornered Sentry	Rare	Minion	General	 Warrior	2 	2 	6 	
+Taunt. Battlecry: Summon three 1/1 Raptors for your opponent. The Draenei are seriously considering cancelling "Bring Your Murderous Pet to Work Day."
+Corrupting Mist	Rare	Spell		 Warlock	2 			
+Corrupt every minion. Destroy them at the start of your next turn. The most terrifying of Un’goro magics is both silent… AND deadly.
+Crackling Razormaw	Common	Minion	Beast	 Hunter	2 	3 	2 	
+Battlecry: Adapt a friendly Beast. Wasn't clever enough to go AROUND the electric fence.
+Cruel Dinomancer	Rare	Minion	General	 Warlock	6 	5 	5 	
+Deathrattle: Summon a random minion you discarded this game. As that old saying goes: "you don't get into dinomancing to make friends."
+Crystalline Oracle	Rare	Minion	Elemental	 Priest	1 	1 	1 	
+Deathrattle: Copy a card from your opponent's deck and add it to your hand. Being made of light has its disadvantages, but at least it's always looking on the bright side.
+Curious Glimmerroot	Epic	Minion	General	 Priest	3 	3 	3 	
+Battlecry: Look at 3 cards.
+Guess which one started in your opponent's deck to get a copy of it. George promised to be good. But it's easy for little Glimmerroots to forget.
+Devilsaur Egg	Rare	Minion	General	 Any	3 	0 	3 	
+Deathrattle: Summon a 5/5 Devilsaur. A key ingredient in all discerning Funnel Cake recipes.
+Dinomancy	Epic	Spell		 Hunter	2 			
+Your Hero Power becomes 'Give a Beast +2/+2' Anyone can dinomance. Just put your lips together and RAAWWWAARGGGH.
+Dinosize	Epic	Spell		 Paladin	8 			
+Set a minion's Attack and Health to 10. Comes with fries and a drink.
+Direhorn Hatchling	Rare	Minion	Beast	 Warrior	5 	3 	6 	
+Taunt
+Deathrattle: Shuffle a 6/9 Direhorn with Taunt into your deck. His mom could beat up your mom.
+Earthen Scales	Rare	Spell		 Druid	1 			
+Give a friendly minion +1/+1, then gain Armor equal to its Attack. You can make your own Earthen Scales at home. Step 1: Roll around in the dirt. Step 2: Magic.
+Eggnapper	Common	Minion	General	 Any	3 	3 	1 	
+Deathrattle: Summon two 1/1 Raptors. Often misunderstood, it's just that he likes to use the eggs as pillows.
+Elder Longneck	Common	Minion	Beast	 Druid	3 	5 	1 	
+Battlecry: If you're holding a minion with 5 or more Attack, Adapt. And so the bartender says, “Why the long neck?”
+Elise the Trailblazer	Legendary	Minion	General	 Any	5 	5 	5 	
+Battlecry: Shuffle a sealed Un'Goro pack into your deck. Reno taught her that blazing her own trail is a lot more fun than following someone else's map.
+Emerald Hive Queen	Epic	Minion	Beast	 Any	1 	2 	3 	
+Your minions cost (2) more. She rules the emerald hive at the end of the yellow brick trail.
+Emerald Reaver	Common	Minion	Beast	 Any	1 	2 	1 	
+Battlecry: Deal 1 damage to each hero. Not to be confused with clubbing enthusiast Emerald Raver.
+Envenom Weapon	Rare	Spell		 Rogue	3 			
+Give your weapon Poisonous. Like Deadly Poison, but deadlier.
+Evolving Spores	Rare	Spell		 Druid	4 			
+Adapt your minions. The most powerful mushrooms are commonly found in boxes marked with "?".
+Explore Un'Goro	Epic	Spell		 Warrior	2 			
+Replace your deck with copies of "Discover a card." It turns out cards DO grow on trees!
+Feeding Time	Rare	Spell		 Warlock	5 			
+Deal 3 damage to a minion. Summon three 1/1 Pterrordaxes. True, they're only 1/1s, but they eat as much as most 4/4s!
+Fire Fly	Common	Minion	Elemental	 Any	1 	1 	2 	
+Battlecry: Add a 1/2 Elemental to your hand. Arch nemeses: small children with glass jars.
+Fire Plume Harbinger	Rare	Minion	Elemental	 Shaman	2 	1 	1 	
+Battlecry: Reduce the Cost of Elementals in your hand by (1). Good for summoning elementals. Great for making s'mores.
+Fire Plume Phoenix	Common	Minion	Elemental	 Any	4 	3 	3 	
+Battlecry: Deal 2 damage. This is what happens when you use a volcano as a bird bath.
+Fire Plume's Heart	Legendary	Spell		 Warrior	1 			
+Quest: Play 7 Taunt Minions.
+Reward: Sulfuras. Why does an active volcano need to be defended? To save its ash.
+Flame Geyser	Common	Spell		 Mage	2 			
+Deal 2 damage. Add a 1/2 Elemental to your hand. Oh, a wise geyser eh?
+Free From Amber	Rare	Spell		 Priest	8 			
+Discover a minion that costs (8) or more. Summon it. Bingo! Minion DNA!
+Frozen Crusher	Rare	Minion	Elemental	 Any	6 	8 	8 	
+After this minion attacks,
+Freeze it. Goes by the online handle "KoolKrusher99."
+Gentle Megasaur	Epic	Minion	Beast	 Any	4 	5 	4 	
+Battlecry: Adapt your Murlocs. "Low, low rents! Must enjoy a nomadic lifestyle. Quasi-sentient, bipedal, amphibious humanoids ONLY!"
+Giant Anaconda	Epic	Minion	Beast	 Druid	7 	5 	3 	
+Deathrattle: Summon a minion from your hand with 5 or more Attack. Must be something it ate.
+Giant Mastodon	Common	Minion	Beast	 Any	9 	6 	10 	
+Taunt Still salty about it not being the "Year of the Mastodon."
+Giant Wasp	Common	Minion	Beast	 Any	3 	2 	2 	
+Stealth
+Poisonous Float like a butterfly, sting like a giant wasp!
+Glacial Shard	Common	Minion	Elemental	 Any	1 	2 	1 	
+Battlecry: Freeze an enemy. Ice, ice, baby!
+Gluttonous Ooze	Epic	Minion	General	 Any	3 	3 	3 	
+Battlecry: Destroy your opponent's weapon and gain Armor equal to its Attack. Three time winner of the Un'Goro weapon eating contest.
+Golakka Crawler	Rare	Minion	Beast	 Any	2 	2 	3 	
+Battlecry: Destroy a Pirate and gain +1/+1. Universally adored by both control decks and ninjas.
+Grievous Bite	Common	Spell		 Hunter	2 			
+Deal 2 damage to a minion and 1 damage to adjacent ones. Ooh. I'll have a bite of this, and of this, and of this...
+Hallucination	Common	Spell		 Rogue	1 			
+Discover a card from your opponent's class. It's the good kind of hallucination.
+Hemet, Jungle Hunter	Legendary	Minion	General	 Any	6 	6 	6 	
+Battlecry: Destroy all cards in your deck that cost (3) or less. The goblin travel agency lost his luggage, but he's still having a great vacation!
+Hot Spring Guardian	Common	Minion	Elemental	 Shaman	3 	2 	4 	
+Taunt
+Battlecry: Restore
+3 Health. NONE SHALL PASS until at least an hour after eating.
+Humongous Razorleaf	Rare	Minion	General	 Any	3 	4 	8 	
+Can't attack. Loves goblins. In a light cream sauce.
+Hydrologist	Common	Minion	Murloc	 Paladin	2 	2 	2 	
+Battlecry: Discover a Secret. Murloc hydrologists are pretty rare. Most murloc undergrads pick computer science.
+Igneous Elemental	Common	Minion	Elemental	 Any	3 	2 	3 	
+Deathrattle: Add two 1/2 Elementals to your hand. We wanted to name him "Ingenious Elemental", but he just wasn't that bright.
+Iron Hide	Common	Spell		 Warrior	1 			
+Gain 5 Armor. Week 6. I remain covered head to toe with scales. They do not yet realize that I am not a dinosaur.
+Jeweled Macaw	Common	Minion	Beast	 Hunter	1 	1 	1 	
+Battlecry: Add a random Beast to your hand. It’s not LITERALLY jeweled. The goblins were terribly disappointed.
+Jungle Giants	Legendary	Spell		 Druid	1 			
+Quest: Summon 5 minions with 5 or more attack.
+Reward: Barnabus. Forming the Golakka Crater was the end of Barnabus' disastrous career as a dancer.
+Kalimos, Primal Lord	Legendary	Minion	Elemental	 Shaman	8 	7 	7 	
+Battlecry: If you played an Elemental last turn, cast an Elemental Invocation. All that's missing is a little heart.
+King Mosh	Legendary	Minion	Beast	 Warrior	9 	9 	7 	
+Battlecry: Destroy all damaged Minions. He's a terror at concerts.
+Lakkari Felhound	Common	Minion	Demon	 Warlock	4 	3 	8 	
+Taunt
+Battlecry: Discard two random cards. Guaranteed to track tar all over your carpet.
+Lakkari Sacrifice	Legendary	Spell		 Warlock	1 			
+Quest: Discard 6 cards.
+Reward: Nether Portal. They asked, “And what must we give in return?” Gul’dan lowered his hood and answered: “Six… cards…”
+Lightfused Stegodon	Rare	Minion	Beast	 Paladin	4 	3 	4 	
+Battlecry: Adapt your Silver Hand Recruits. “Come now, Johnston. I think those horns are quite fetching on you.”
+Living Mana	Epic	Spell		 Druid	5 			
+Transform your Mana Crystals into 2/2 Treants. Recover the mana when they die. If you truly love your mana, set it free.
+Lost in the Jungle	Common	Spell		 Paladin	1 			
+Summon two 1/1 Silver Hand Recruits. George and Karl were never heard from again.
+Lyra the Sunshard	Legendary	Minion	Elemental	 Priest	5 	3 	5 	
+Whenever you cast a spell, add a random Priest spell to your hand. Arise, fair sun, and kill my envious foes. They don't have a legendary as beautiful as you.
+Mana Bind	Rare	Spell		 Mage	3 			
+Secret: When your opponent cast a spell, add a copy to your hand that costs (0). Nice spell. YOINK!
+Meteor	Epic	Spell		 Mage	6 			
+Deal 15 damage to a minion and 3 damage to adjacent ones. When you absolutely, positively, have to kill all the dinosaurs.
+Mimic Pod	Rare	Spell		 Rogue	3 			
+Draw a card, then add a copy of it to your hand. Jinx!
+Mirage Caller	Rare	Minion	General	 Priest	3 	2 	3 	
+Battlecry: Choose a friendly minion. Summon a 1/1 copy of it. Mirage is actually the name of its long-lost cat.
+Molten Blade	Rare	Weapon		 Warrior	1 	1 	1 	
+Each turn this is in your hand, transform it into a new weapon. It’s a sword! It’s a knife! It’s a swizzle-stick!
+Molten Reflection	Rare	Spell		 Mage	4 			
+Choose a friendly minion. Summon a copy of it. Dang, I'm looking pretty hot!
+Nesting Roc	Common	Minion	Beast	 Any	5 	4 	7 	
+Battlecry: If you control at least 2 other minions, gain Taunt. Roc eggs are great in omelettes, sandwiches, and as bait to turn poachers into bird food.
+Obsidian Shard	Rare	Weapon		 Rogue	4 	3 	3 	
+Costs (1) less for each card you've played from another class. You know you’re a Rogue when a sharp rock makes you go “Ooh! Dagger!”
+Open the Waygate	Legendary	Spell		 Mage	1 			
+Quest: Cast 6 spells that didn't start in your deck.
+Reward: Time Warp. Although powerful, the incantation is simple. It’s just a jump to the left, and then a step to the right.
+Ornery Direhorn	Common	Minion	Beast	 Warrior	6 	5 	5 	
+Taunt
+Battlecry: Adapt. "It's an herbivore. How dangerous can it be?" - Famous last words
+Ozruk	Legendary	Minion	Elemental	 Any	9 	5 	5 	
+Taunt
+Battlecry: Gain +5 Health for each Elemental you played last turn. Between you and me, Ozruk is a bit obsessed with his body.
+Primalfin Champion	Epic	Minion	Murloc	 Paladin	2 	1 	2 	
+Deathrattle: Return any spells you cast on this minion to your hand. Sure, he'll return your stuff. OVER HIS DEAD BODY!
+Primalfin Lookout	Common	Minion	Murloc	 Any	3 	3 	2 	
+Battlecry: If you control another Murloc, Discover a Murloc. Lookout is a self-appointed title that's mostly an excuse to beat things up.
+Primalfin Totem	Rare	Minion	Totem	 Shaman	2 	0 	3 	
+At the end of your turn,
+summon a 1/1 Murloc. Emits a sound only murlocs can hear, which is good because it’s REALLY annoying.
+Primordial Drake	Epic	Minion	Dragon	 Any	8 	4 	8 	
+Taunt
+Battlecry: Deal 2 damage to all other minions. Before he became a rap artist.
+Primordial Glyph	Epic	Spell		 Mage	2 			
+Discover a spell.
+Reduce its Cost by (2). It's the Ancient Tol'vir symbol for "Whoops!"
+Pterrordax Hatchling	Common	Minion	Beast	 Any	3 	2 	2 	
+Battlecry: Adapt. Aww. So cute. Want to feed him another finger?
+Pyros	Legendary	Minion	Elemental	 Mage	2 	2 	2 	
+Deathrattle: Return this to your hand as a 6/6 that cost (6). If you strike her down, she shall become more powerful than you can possibly… well, she'll become a 6/6 anyways.
+Radiant Elemental	Common	Minion	Elemental	 Priest	2 	2 	3 	
+Your spells cost (1) less. It's a literal lava lamp!
+Raptor Hatchling	Rare	Minion	Beast	 Hunter	1 	2 	1 	
+Deathrattle: Shuffle a 4/3 Raptor into your deck. They’re just baby teeth. Lots and lots of baby teeth.
+Ravasaur Runt	Common	Minion	Beast	 Any	2 	2 	2 	
+Battlecry: If you control at least 2 other minions, Adapt. Doesn't like to adapt unless others are watching. Some minions are such show-offs.
+Ravenous Pterrordax	Common	Minion	Beast	 Warlock	4 	4 	4 	
+Battlecry: Destroy a friendly minion to Adapt twice. For better results, feed your pterrordax low-fat, high-fiber minions.
+Razorpetal Lasher	Common	Minion	General	 Rogue	2 	2 	2 	
+Battlecry: Add a Razorpetal to your hand that deals 1 damage. The reason why there are no zombies in Un'goro.
+Razorpetal Volley	Common	Spell		 Rogue	2 			
+Add two Razorpetals to your hand that deal 1 damage. The result of a fundamental misunderstanding of the phrase "flower power".
+Rockpool Hunter	Common	Minion	Murloc	 Any	2 	2 	3 	
+Battlecry: Give a friendly Murloc +1/+1. Loves crab meat. Fears crabs.
+Sabretooth Stalker	Common	Minion	Beast	 Any	6 	8 	2 	
+Stealth It's gotten a bit long in the tooth.
+Sated Threshadon	Common	Minion	Beast	 Any	7 	5 	7 	
+Deathrattle: Summon three 1/1 Murlocs. Bet you can't eat just one murloc!
+Servant of Kalimos	Rare	Minion	Elemental	 Any	5 	4 	5 	
+Battlecry: If you played an Elemental last turn, Discover an Elemental. He's doing his best, but his mom thinks that if he had just applied himself in school Kalimos would be working for HIM.
+Shadow Visions	Epic	Spell		 Priest	2 			
+Discover a copy of a spell in your deck. This one’s a bird. And here’s a bunny!
+Shellshifter	Rare	Minion	General	 Druid	4 	3 	3 	
+Choose One - Transform into a 5/3 with Stealth;
+or a 3/5 with Taunt. Master of the Three Shell Monte.
+Sherazin, Corpse Flower	Legendary	Minion	General	 Rogue	4 	5 	3 	
+Deathrattle: Go dormant. Play 4 cards in a turn to revive this minion. A Tortollan gardener's worst nightmare.
+Shimmering Tempest	Common	Minion	Elemental	 Mage	2 	2 	1 	
+Deathrattle: Add a random Mage spell to your hand. HATES being summoned for Kirin Tor party lighting.
+Spikeridged Steed	Rare	Spell		 Paladin	6 			
+Give a minion +2/+6 and Taunt. When it dies, summon a Stegodon. What beats cavalry? Dinosaur cavalry.
+Spirit Echo	Epic	Spell		 Shaman	3 			
+Give your minions "Deathrattle: Return this to your hand." I guess you can say they’re… “soul survivors.”
+Spiritsinger Umbra	Legendary	Minion	General	 Any	4 	3 	4 	
+After you summon a minion, trigger its Deathrattle effect. She sees the fate of anyone she meets, but it's always the same: dinosaur attack.
+Stampede	Epic	Spell		 Hunter	1 			
+Each time you play a Beast this turn,
+add a random Beast to your hand. Many hunters long for the pitter-patter of enormous feet.
+Steam Surger	Rare	Minion	Elemental	 Mage	4 	5 	4 	
+Battlecry: If you played an Elemental last turn,
+add a 'Flame Geyser'
+to your hand. Explorers nicknamed him the Teapot Elemental.
+Stegodon	Common	Minion	Beast	 Any	4 	2 	6 	
+Taunt Level 40 Tortollan Paladins quest to tame a Stegodon. There are no level 41 Tortollan Paladins.
+Stone Sentinel	Epic	Minion	Elemental	 Shaman	7 	4 	4 	
+Battlecry: If you played an Elemental last turn, summon two 2/3 Elementals with Taunt. He and his friends just want to rock out.
+Stonehill Defender	Rare	Minion	General	 Any	3 	1 	4 	
+Taunt
+Battlecry: Discover a Taunt minion. Briefly tried stand-up comedy under the name "Stonehill Offender", but turtles are just too thin-skinned.
+Stormwatcher	Common	Minion	Elemental	 Any	7 	4 	8 	
+Windfury Aspiring meteorologist!
+Stubborn Gastropod	Common	Minion	Beast	 Any	2 	1 	2 	
+Taunt
+Poisonous Stubbornly pursuing its dream to become Azeroth's fastest animal!
+Sudden Genesis	Epic	Spell		 Warrior	5 			
+Summon copies of your damaged minions. Being hurt can make you another person.
+Sunkeeper Tarim	Legendary	Minion	General	 Paladin	6 	3 	7 	
+Taunt
+Battlecry: Set all other minions' Attack and Health to 3. Ironically, his favorite number is 4.
+Swamp King Dred	Legendary	Minion	Beast	 Hunter	7 	9 	9 	
+After your opponent plays a minion, attack it. Swamp King Dred, more like Swamp King Dead, amiright?
+Tar Creeper	Common	Minion	Elemental	 Any	3 	1 	5 	
+Taunt
+Has +2 Attack during your opponent's turn. If you won't come to the tar pits, we'll bring them to you!
+Tar Lord	Common	Minion	Elemental	 Warrior	7 	1 	11 	
+Taunt
+Has +4 Attack during your opponent's turn. Tar Lord, man... legendary monster? Aw, forget it.
+Tar Lurker	Common	Minion	Elemental	 Warlock	5 	1 	7 	
+Taunt
+Has +3 Attack during your opponent's turn. Hi, Tar here. Long time lurking, first time taunting…
+Terrorscale Stalker	Rare	Minion	General	 Hunter	3 	3 	3 	
+Battlecry: Trigger a friendly minion's Deathrattle. Likes to scare his friends half to death.
+The Caverns Below	Legendary	Spell		 Rogue	1 			
+Quest: Play five minions with the same name. Reward: Crystal Core. Why can't it ever be The Taverns Below?
+The Last Kaleidosaur	Legendary	Spell		 Paladin	1 			
+Quest: Cast 6 spells on your minions. Reward: Galvadon. “Impossible!” exclaimed the Silver Hand Recruit, his eyes filled with fear. Uther shook his head, turning the crystal until it caught the light: “Life finds a way.”
+The Marsh Queen	Legendary	Spell		 Hunter	1 			
+Quest: Play seven 1-Cost minions.
+Reward: Queen Carnassa. Question: What's scarier, one giant angry dinosaur or 15 smaller vicious ones? Answer: AHHHHHHH THEY FOUND MEEEEEE
+The Voraxx	Legendary	Minion	General	 Any	4 	3 	3 	
+After you cast a spell on this minion, summon a 1/1 Plant and cast another copy on it. I am the Voraxx. I speak for the weeds.
+Thunder Lizard	Common	Minion	Beast	 Any	3 	3 	3 	
+Battlecry: If you played an Elemental last turn, Adapt. What? THUNDER LIZARD is adapting!
+Tidal Surge	Common	Spell		 Shaman	4 			
+Deal 4 damage to a minion. Restore 4 Health to your hero. Also good for removing pesky stains.
+Tol'vir Stoneshaper	Rare	Minion	General	 Any	4 	3 	5 	
+Battlecry: If you played an Elemental last turn, gain Taunt and Divine Shield. He spends a lot of time keeping himself in stoneshape.
+Tol'vir Warden	Rare	Minion	General	 Hunter	5 	3 	5 	
+Battlecry: Draw two 1-Cost minions from your deck. Ferocious in combat… and even more terrifying in pet battles.
+Tortollan Forager	Common	Minion	General	 Druid	2 	2 	2 	
+Battlecry: Add a random minion with 5 or more Attack to your hand. In the Tortollan tongue, Un’goro is known as the “Land of the Lost and Found.”
+Tortollan Primalist	Epic	Minion	General	 Any	8 	5 	4 	
+Battlecry: Discover a spell and cast it with random targets. I see pizza in my future.
+Tortollan Shellraiser	Common	Minion	General	 Priest	4 	2 	6 	
+Taunt
+Deathrattle: Give a random friendly minion +1/+1. A hero... In a half-shell.
+Tyrantus	Legendary	Minion	Beast	 Druid	10 	12 	12 	
+Can't be targeted by Spells or Hero Powers. Millennia of evolutionary pressures turned his species into the Faerie Dragons we know today.
+Ultrasaur	Common	Minion	Beast	 Any	10 	7 	14 	
+Evolved the really long neck to spy on its neighbors.
+Unite the Murlocs	Legendary	Spell		 Shaman	1 			
+Quest: Summon 10 Murlocs.
+Reward: Megafin. Form feet and legs! Form arms and body! Oh. Sorry. I was thinking about Mechafin.
+Verdant Longneck	Common	Minion	Beast	 Druid	5 	5 	4 	
+Battlecry: Adapt. Always sticking its neck into other people’s business.
+Vicious Fledgling	Rare	Minion	Beast	 Any	3 	3 	3 	
+After this minion attacks a hero, Adapt. A youngster who is truly hungry for self-improvement.
+Vilespine Slayer	Epic	Minion	General	 Rogue	5 	3 	4 	
+Combo: Destroy a minion. 'Cause slayers gonna slay, slay, slay, slay, slay.
+Vinecleaver	Rare	Weapon		 Paladin	7 	4 	3 	
+After your hero attacks, summon two 1/1 Silver Hand Recruits. George and Karl! Thank the Light we found you!
+Volatile Elemental	Common	Minion	Elemental	 Any	2 	1 	1 	
+Deathrattle: Deal 3 damage to a random enemy minion. Currently in an anger management class with Raging Worgen, Grommash Hellscream, and The Angry Chicken. It isn't helping.
+Volcano	Rare	Spell		 Shaman	5 			
+Deal 15 Damage randomly split across all minions. Overload: (2) Many young shaman summon a volcano as their first school project.
+Volcanosaur	Rare	Minion	Beast	 Any	7 	5 	6 	
+Battlecry: Adapt, then Adapt. Always fun to say out loud "VOL-CA-NO-SAUUUR!"

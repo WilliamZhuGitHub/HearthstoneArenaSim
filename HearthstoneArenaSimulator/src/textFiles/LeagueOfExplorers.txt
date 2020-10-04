@@ -1,0 +1,101 @@
+Ancient Shade	Rare	Minion	General	 Any	4 	7 	4 	
+Battlecry: Shuffle an 'Ancient Curse' into your deck that deals 7 damage to you when drawn. Warning: Do not expose to direct sunlight.
+Animated Armor	Rare	Minion	General	 Mage	4 	4 	4 	
+Your hero can only take 1 damage at a time. Try putting it on. Wait, let me get my camera.
+Anubisath Sentinel	Common	Minion	General	 Any	5 	4 	4 	
+Deathrattle: Give a random friendly minion +3/+3. He's actually a 1/1 who picked up the hammer from the last guy.
+Anyfin Can Happen	Rare	Spell		 Paladin	10 			
+Summon 7 Murlocs that died this game. Theme song by Ellie Goldfin and Blagghghlrlrl Harris.
+Arch-Thief Rafaam	Legendary	Minion	General	 Any	9 	7 	8 	
+Battlecry: Discover a powerful Artifact. He's very good at retrieving artifacts. From other people's museums.
+Brann Bronzebeard	Legendary	Minion	General	 Any	3 	2 	4 	
+Your Battlecries trigger twice. Contains 75% more fiber than his brother Magni!
+Curse of Rafaam	Common	Spell		 Warlock	2 			
+Give your opponent a 'Cursed!' card. While they hold it, they take 2 damage on their turn. This is what happens when Rafaam stubs his toe unexpectedly.
+Cursed Blade	Rare	Weapon		 Warrior	1 	2 	3 	
+Double all damage dealt to your hero. The Curse is that you have to listen to "MMMBop" on repeat.
+Dark Peddler	Common	Minion	General	 Warlock	2 	2 	2 	
+Battlecry: Discover a 1-Cost card. I'm offering you a bargain here! This amazing vacuum cleaner for your soul!
+Dart Trap	Common	Spell		 Hunter	2 			
+Secret: After an opposing Hero Power is used, deal 5 damage to a random enemy. Five years of tap-dancing lessons are FINALLY going to pay off!
+Desert Camel	Common	Minion	Beast	 Hunter	3 	2 	4 	
+Battlecry: Put a 1-Cost minion from each deck into the battlefield. Dang. This card is sweet. Almost as sweet as Dessert Camel.
+Djinni of Zephyrs	Epic	Minion	Elemental	 Any	5 	4 	6 	
+After you cast a spell on another friendly minion, cast a copy of it on this one. If you want your wish granted, don't rub him the wrong way.
+Eerie Statue	Rare	Minion	General	 Any	4 	7 	7 	
+Can’t attack unless it’s the only minion in the battlefield. Don't blink! Don't turn your back, don't look away, and DON'T BLINK.
+Elise Starseeker	Legendary	Minion	General	 Any	4 	3 	5 	
+Battlecry: Shuffle the 'Map to the Golden Monkey' into your deck. A large part of her job entails not mixing up the Map to the Golden Monkey with the Map to Monkey Island.
+Entomb	Common	Spell		 Priest	6 			
+Choose an enemy minion. Shuffle it into your deck. It's perfectly safe as long as you remember to put in air holes.
+Ethereal Conjurer	Common	Minion	General	 Mage	5 	6 	3 	
+Battlecry: Discover a spell. Despite the name, he's a solid conjurer.
+Everyfin is Awesome	Rare	Spell		 Shaman	7 			
+Give your minions +2/+2. Costs (1) less for each Murloc you control. Everyfin is cool when you're part of a murloc team!
+Excavated Evil	Rare	Spell		 Priest	5 			
+Deal 3 damage to all minions. Shuffle this card into your opponent's deck. MOM! DAD! DON'T TOUCH IT! IT'S EVIL!!!!!!
+Explorer's Hat	Rare	Spell		 Hunter	2 			
+Give a minion +1/+1 and "Deathrattle: Add an Explorer's Hat to your hand." Harrison Jones was disappointed that he didn't get to be part of the League of Explorers, but his hat did.
+Fierce Monkey	Common	Minion	Beast	 Warrior	3 	3 	4 	
+Taunt Fierce monkey. That funky monkey.
+Forgotten Torch	Common	Spell		 Mage	3 			
+Deal 3 damage. Shuffle a (6 damage for 3 mana card) into your deck. Why does a forgotten torch turn into a roaring torch with no provocation? It's one of life's many mysteries.
+Fossilized Devilsaur	Common	Minion	General	 Any	8 	8 	8 	
+Battlecry: If you control a Beast, gain Taunt. This was the only job he could get after the dinosaur theme park debacle.
+Gorillabot A-3	Common	Minion	Mech	 Any	4 	3 	4 	
+Battlecry: If you control another Mech, Discover a Mech. A-1 and A-2 went nuts, when they should have gone bolts.
+Huge Toad	Common	Minion	Beast	 Any	2 	3 	2 	
+Deathrattle: Deal 1 damage to a random enemy. Deals damage when he croaks.
+Jeweled Scarab	Common	Minion	Beast	 Any	2 	1 	1 	
+Battlecry: Discover a (3)-Cost card. It's amazing what you can do with super glue!
+Jungle Moonkin	Rare	Minion	General	 Druid	4 	4 	4 	
+Both players have Spell Damage +2. The REAL angry chicken!
+Keeper of Uldaman	Common	Minion	General	 Paladin	4 	3 	4 	
+Battlecry: Set a minion's Attack and Health to 3. U da man! No, U da man!
+Mounted Raptor	Common	Minion	Beast	 Druid	3 	3 	2 	
+Deathrattle: Summon a random 1-Cost minion. Clever girl!
+Murloc Tinyfin	Common	Minion	Murloc	 Any	0 	1 	1 	
+High mortality rate, from often being hugged to death.
+Museum Curator	Common	Minion	General	 Priest	2 	1 	2 	
+Battlecry: Discover a Deathrattle card. He is forever cursing the kids who climb on the rails and the evil archeologists who animate the exhibits.
+Naga Sea Witch	Epic	Minion	General	 Any	8 	5 	5 	
+Your cards cost (5). If she had studied harder, she would have been a C+ witch.
+Obsidian Destroyer	Common	Minion	General	 Warrior	7 	7 	7 	
+At the end of your turn, summon a 1/1 Scarab with Taunt. No obsidian is safe around the Obsidian Destroyer!
+Pit Snake	Common	Minion	Beast	 Rogue	1 	2 	1 	
+Poisonous It could be worse. It could be a Snake Pit.
+Raven Idol	Common	Spell		 Druid	1 			
+Choose One - Discover a minion; or Discover a spell. Was petrified when it found out it didn't make the cut for Azerothian Idol.
+Reliquary Seeker	Rare	Minion	General	 Warlock	1 	1 	1 	
+Battlecry: If you have 6 other minions, gain +4/+4. The Reliquary considers itself the equal of the League of Explorers. The League of Explorers doesn't.
+Reno Jackson	Legendary	Minion	General	 Any	6 	4 	6 	
+Battlecry: If your deck has no duplicates, fully heal your hero. Reno is a four-time winner of the 'Best Accessorized Explorer' award.
+Rumbling Elemental	Common	Minion	Elemental	 Shaman	4 	2 	6 	
+After you play a Battlecry minion, deal 2 damage to a random enemy. He's a very hungry elemental.
+Sacred Trial	Common	Spell		 Paladin	1 			
+Secret: After your opponent has at least 3 minions and plays another, destroy it. You have chosen poorly.
+Sir Finley Mrrgglton	Legendary	Minion	Murloc	 Any	1 	1 	3 	
+Battlecry: Discover a new basic Hero Power. In addition to fluent Common, he also speaks fourteen dialects of 'mrgl'.
+Summoning Stone	Rare	Minion	General	 Any	5 	0 	6 	
+Whenever you cast a spell, summon a random minion of the same Cost. Sometimes it feels like it's always the same slackers that are waiting for a summon.
+Tomb Pillager	Common	Minion	General	 Rogue	4 	5 	4 	
+Deathrattle: Add a Coin to your hand. After the guild broke up, he could no longer raid the tombs.
+Tomb Spider	Common	Minion	Beast	 Any	4 	3 	3 	
+Battlecry: Discover a Beast. Less serious than its cousin, the Grave Spider.
+Tunnel Trogg	Common	Minion	General	 Shaman	1 	1 	3 	
+Whenever you Overload, gain +1 Attack per locked Mana Crystal. Sure, they're ugly, but they live in tunnels. You try your beauty routine without natural light.
+Unearthed Raptor	Rare	Minion	General	 Rogue	3 	3 	4 	
+Battlecry: Choose a friendly minion. Gain a copy of its Deathrattle. Still hunting for the ones who earthed him.
+Wobbling Runts	Rare	Minion	General	 Any	6 	2 	6 	
+Deathrattle: Summon three 2/2 Runts. The fourth one fell off in a tragic accident. They don't talk about it.
+Showing all 45 cards
+
+Uncollectible
+Name[show]	Rarity	Type	Subtype	Class	Cost	Atk	HP	Description
+
+Card lists
+By card set	Basic card listClassic card listHall of Fame card listNaxxramas card listGoblins vs Gnomes card listBlackrock Mountain card listThe Grand Tournament card listThe League of Explorers card listWhispers of the Old Gods card listOne Night in Karazhan card listMean Streets of Gadgetzan card listJourney to Un'Goro card listKnights of the Frozen Throne card listKobolds and Catacombs card listThe Witchwood card listThe Boomsday Project card listRastakhan's Rumble card listRise of Shadows card listSaviors of Uldum card list
+By rarity	Free card listCommon card listRare card listEpic card listLegendary card list
+By card type	Minion card listSpell card listWeapon card list
+Category: Card lists
+

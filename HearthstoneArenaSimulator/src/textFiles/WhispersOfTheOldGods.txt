@@ -1,0 +1,268 @@
+A Light in the Darkness	Common	Spell		 Paladin	2 			
+Discover a minion. Give it +1/+1. Wait, how can you have a light in the dark? If you turn on a light while it’s dark, doesn’t that mean it’s no longer dark?
+Aberrant Berserker	Common	Minion	General	 Any	4 	3 	5 	
+Has +2 Attack while damaged. I berserk, therefore I am.
+Addled Grizzly	Rare	Minion	Beast	 Druid	3 	2 	2 	
+After you summon a minion, give it +1/+1. Druids who spend too long in bear form are more susceptible to the whispers of the Old Gods. Right now they are whispering the lyrics to "La Bamba".
+Am'gam Rager	Common	Minion	General	 Any	3 	1 	5 	
+peerc rewop
+Ancient Harbinger	Epic	Minion	General	 Any	6 	4 	6 	
+At the start of your turn, put a 10-Cost minion from your deck into your hand. "honey, can u run down to the store and pick up some 10 cost minions? thx"
+Ancient Shieldbearer	Rare	Minion	General	 Warrior	7 	6 	6 	
+Battlecry: If your C'Thun has at least 10 Attack, gain 10 Armor. Back in her day, each shield weighed two tons and she had to carry four of them on each arm!
+Anomalus	Legendary	Minion	Elemental	 Mage	8 	8 	6 	
+Deathrattle: Deal 8 damage to all minions. That's short for "Anomnomnomnomalus".
+Beckoner of Evil	Common	Minion	General	 Any	2 	2 	3 	
+Battlecry: Give your C'Thun +2/+2 (wherever it is). Here, Evil! C'mon boy!
+Bilefin Tidehunter	Common	Minion	Murloc	 Any	2 	2 	1 	
+Battlecry: Summon a 1/1 Ooze with Taunt. Bile actually makes for surprisingly sturdy fins.
+Blackwater Pirate	Rare	Minion	Pirate	 Any	4 	2 	5 	
+Your weapons cost (2) less. "Look, they fell off the back of a ship, do you want them or not? I have a meeting with Y'Shaarj in like ten minutes."
+Blade of C'Thun	Epic	Minion	General	 Rogue	9 	4 	4 	
+Battlecry: Destroy a minion. Add its Attack and Health to C'Thun's (wherever it is). C'Thun demands a sacrifice! Preferably a Deathwing.
+Bladed Cultist	Common	Minion	General	 Rogue	1 	1 	2 	
+Combo: Gain +1/+1. He has a poor understanding of the law of diminishing returns.
+Blood of The Ancient One	Epic	Minion	General	 Any	9 	9 	9 	
+If you control two of these at the end of your turn, merge them into 'The Ancient One'. Add two cups of Blood of the Ancient One to one cup of lemon juice. Add just a dash of sugar and stir. Delicious!
+Blood To Ichor	Rare	Spell		 Warrior	1 			
+Deal 1 damage to a minion. If it survives, summon a 2/2 Slime. For his next trick, he turns the ichor back to blood and stuffs it back in you.
+Blood Warriors	Epic	Spell		 Warrior	3 			
+Add a copy of each damaged friendly minion to your hand. They have an uneasy rivalry with the Blood Paladins.
+Bloodhoof Brave	Common	Minion	General	 Warrior	4 	2 	6 	
+Taunt
+Bloodsail Cultist	Rare	Minion	Pirate	 Warrior	3 	3 	4 	
+Battlecry: If you control another Pirate, give your weapon +1/+1. They're really just in it for the Blood Parrot.
+Bog Creeper	Common	Minion	General	 Any	7 	6 	8 	
+Taunt He's tried other things, but bog sidling, bog ambling, and bog trundling just aren't as effective as bog creeping.
+C'Thun	Legendary	Minion	General	 Any	10 	6 	6 	
+Battlecry: Deal damage equal to this minion's Attack randomly split among all enemies. C'Thun's least favorite Hearthstone card: Eye for an Eye.
+C'Thun's Chosen	Common	Minion	General	 Any	4 	4 	2 	
+Divine Shield. Battlecry: Give your C'Thun +2/+2 (wherever it is). He gave her a promise ring and everything.
+Cabalist's Tome	Epic	Spell		 Mage	5 			
+Add 3 random Mage spells to your hand. What's in there? I bet it's cookie recipes!
+Call of the Wild	Epic	Spell		 Hunter	9 			
+Summon all 3 Animal Companions. "Hello. Misha, Leokk and Huffer aren't here right now, but if you leave a message we'll get back to you right away." BEEP.
+Carrion Grub	Common	Minion	Beast	 Hunter	3 	2 	5 	
+Carrion, my wayward grub.
+Cho'gall	Legendary	Minion	General	 Warlock	7 	7 	7 	
+Battlecry: The next spell you cast this turn costs Health instead of Mana. Even after all this time, Gul'dan still makes Cho'gall go get donuts and coffee.
+Corrupted Healbot	Rare	Minion	Mech	 Any	5 	6 	6 	
+Deathrattle: Restore 8 Health to the enemy hero. Not so much "corrupted" as "has terrible aim".
+Corrupted Seer	Rare	Minion	Murloc	 Any	6 	2 	3 	
+Battlecry: Deal 2 damage to all non-Murloc minions. For seers, it's very handy to have your crystal ball hanging right in front of your face.
+Crazed Worshipper	Epic	Minion	General	 Any	5 	3 	6 	
+Taunt. Whenever this minion takes damage, give your C'Thun +1/+1 (wherever it is). Every month they share a pancake breakfast with the Perfectly Rational Worshippers.
+Cult Apothecary	Common	Minion	General	 Any	5 	4 	4 	
+Battlecry: For each enemy minion, restore 2 Health to your hero. Cults need pharmacists too.
+Cult Sorcerer	Rare	Minion	General	 Mage	2 	3 	2 	
+Spell Damage +1
+Cyclopian Horror	Epic	Minion	General	 Any	4 	3 	3 	
+Taunt. Battlecry: Gain +1 Health for each enemy minion. What are the qualifications for being a 'Horror?' Just how horrible do you have to be?
+Dark Arakkoa	Common	Minion	General	 Druid	6 	5 	7 	
+Taunt.
+Darkshire Alchemist	Common	Minion	General	 Priest	5 	4 	5 	
+Battlecry: Restore 5 Health. The secret ingredient: liquified funnel cake.
+Darkshire Councilman	Common	Minion	General	 Warlock	3 	1 	5 	
+After you summon a minion, gain +1 Attack. Democracy in action!
+Darkshire Librarian	Rare	Minion	General	 Warlock	2 	3 	2 	
+Battlecry: Discard a random card. Deathrattle: Draw a card. Do NOT be late with your overdue fines.
+Darkspeaker	Epic	Minion	General	 Any	5 	3 	6 	
+Battlecry: Swap stats with a friendly minion. People often think that Darkspeaker is the arch nemesis of Lightspeaker, but that title actually belongs to Heavyspeaker.
+Deathwing, Dragonlord	Legendary	Minion	Dragon	 Any	10 	12 	12 	
+Deathrattle: Put all Dragons from your hand into the battlefield. To his credit, Deathwing really took to heart the feedback he was receiving that he needed to be "more of a team player".
+Demented Frostcaller	Rare	Minion	General	 Mage	4 	2 	4 	
+After you cast a spell, Freeze a random enemy character. He prefers that you refer to him by his nickname: 'Frostwaker.'
+Disciple of C'Thun	Rare	Minion	General	 Any	3 	2 	1 	
+Battlecry: Deal 2 damage. Give your C'Thun +2/+2 (wherever it is). C’Thun’s recruiting pitch involves cookies, which is why it’s the most popular Old God.
+Divine Strength	Common	Spell		 Paladin	1 			
+Give a minion +1/+2. Every year a few paladins get disqualified from the Westfall weight lifting championship for using Divine Strength.
+DOOM!	Epic	Spell		 Warlock	10 			
+Destroy all minions. Draw a card for each. We ran out of space for "DOOOOOOOOOOOM!!!!!"
+Doomcaller	Rare	Minion	General	 Any	8 	7 	9 	
+Battlecry: Give your C'Thun +2/+2 (wherever it is). If it's dead, shuffle it into your deck. "Hello, is Doom there? No? Can I leave a message?"
+Duskboar	Common	Minion	Beast	 Any	2 	4 	1 	
+Often excluded from dinner parties. To be fair, he is very boaring.
+Eater of Secrets	Rare	Minion	General	 Any	4 	2 	4 	
+Battlecry: Destroy all enemy Secrets. Gain +1/+1 for each. You don't want to be around after it has eaten an explosive trap. You thought Sludge Belcher was bad...
+Eldritch Horror	Common	Minion	General	 Any	8 	6 	10 	
+Often wonders what path his life might have taken if he wasn't named, you know, "Eldritch Horror".
+Embrace the Shadow	Epic	Spell		 Priest	2 			
+This turn, your healing effects deal damage instead. For when your Auchenai Soulpriests call in sick.
+Eternal Sentinel	Epic	Minion	General	 Shaman	2 	3 	2 	
+Battlecry: Unlock your Overloaded Mana Crystals. Just try to avoid eye contact.
+Evolve	Rare	Spell		 Shaman	1 			
+Transform your minions into random minions that cost (1) more. So you say you want an evolution. Well, you know. We all want to change the board.
+Evolved Kobold	Common	Minion	General	 Any	4 	2 	2 	
+Spell Damage +2 You no take tentacle!
+Faceless Behemoth	Common	Minion	General	 Any	10 	10 	10 	
+Rejected names: Forty-Foot Faceless, Big ol' No-face, Huge Creature Sans Face, Teddy.
+Faceless Shambler	Epic	Minion	General	 Any	4 	1 	1 	
+Taunt
+Faceless Summoner	Common	Minion	General	 Mage	6 	5 	5 	
+Battlecry: Summon a random 3-Cost minion. They never get the recognition they deserve.
+Fandral Staghelm	Legendary	Minion	General	 Druid	4 	3 	5 	
+Your Choose One cards and powers have both effects combined. Always manages to mention "Back when I was creating the World Tree…" in EVERY conversation. Sheesh! Enough already.
+Feral Rage	Common	Spell		 Druid	3 			
+Choose One - Give your hero +4 Attack this turn; or Gain 8 Armor. Let's be honest. One option is a lot ragier than the other.
+Fiery Bat	Common	Minion	Beast	 Hunter	1 	2 	1 	
+Deathrattle: Deal 1 damage to a random enemy. He'll always be our first.
+Flamewreathed Faceless	Common	Minion	General	 Shaman	4 	7 	7 	
+Overload: (2) He's on fire! Boomshakalaka!
+Forbidden Ancient	Epic	Minion	General	 Druid	1 	1 	1 	
+Battlecry: Spend all your Mana. Gain +1/+1 for each mana spent. This Ancient was banned from the local tavern after tucking a 'Dr. Boom' up its sleeve.
+Forbidden Flame	Epic	Spell		 Mage	0 			
+Spend all your Mana. Deal that much damage to a minion. WARNING: This flame is not to be used unless you are a licensed acolyte of the Old Gods.
+Forbidden Healing	Epic	Spell		 Paladin	0 			
+Spend all your Mana. Heal for double the mana you spent. No one's quite sure why it's forbidden. And yes, that should make you nervous.
+Forbidden Ritual	Rare	Spell		 Warlock	0 			
+Spend all your Mana. Summon that many 1/1 Tentacles. Actually, C'Thun gives his full support for this ritual.
+Forbidden Shaping	Epic	Spell		 Priest	0 			
+Spend all your Mana. Summon a random minion that costs that much. But the minion arrives covered in goo.
+Forlorn Stalker	Rare	Minion	General	 Hunter	3 	4 	2 	
+Battlecry: Give all minions with Deathrattle in your hand +1/+1. He's going to leave the dying up to you, if that's cool.
+Giant Sand Worm	Epic	Minion	Beast	 Hunter	8 	8 	8 	
+Whenever this attacks and kills a minion, it may attack again. Banned from every all-you-can-eat buffet on Azeroth.
+Grotesque Dragonhawk	Common	Minion	Beast	 Any	7 	5 	5 	
+Windfury They say that "grotesque is in the eye of the beholder," but that's just because they've never seen a Grotesque Dragonhawk. Yikes!
+Hallazeal the Ascended	Legendary	Minion	Elemental	 Shaman	5 	4 	6 	
+Whenever your spells deal damage, restore that much Health to your hero. Hallazeals all your dallazamage.
+Hammer of Twilight	Epic	Weapon		 Shaman	5 	4 	2 	
+Deathrattle: Summon a 4/2 Elemental. Stop! It's Twilight Hammer time.
+Herald Volazj	Legendary	Minion	General	 Priest	6 	5 	5 	
+Battlecry: Summon a 1/1 copy of each of your other minions. His whole job is yelling "Yogg-Saron comin'!"
+Hogger, Doom of Elwynn	Legendary	Minion	General	 Any	7 	6 	6 	
+Whenever this minion takes damage, summon a 2/2 Gnoll with Taunt. When C'thun went to sleep, he checked under his bed for Hogger.
+Hooded Acolyte	Common	Minion	General	 Priest	4 	3 	6 	
+Whenever a character is healed, give your C'Thun +1/+1 (Wherever it is). Wait, what kind of acolyte doesn't wear a hood?
+Infest	Rare	Spell		 Hunter	3 			
+Give your minions "Deathrattle: Add a random Beast to your hand." The best part is the look on their face when you jump out of the cake! Err… corpse.
+Infested Tauren	Common	Minion	General	 Any	4 	2 	3 	
+Taunt. Deathrattle: Summon a 2/2 Slime. The Overmind and the Old Gods are surprisingly similar.
+Infested Wolf	Rare	Minion	Beast	 Hunter	4 	3 	3 	
+Deathrattle: Summon two 1/1 Spiders. A little flea powder will fix that right up.
+Journey Below	Rare	Spell		 Rogue	1 			
+Discover a Deathrattle card. Don't stop believing there's something below.
+Klaxxi Amber-Weaver	Rare	Minion	General	 Druid	4 	4 	5 	
+Battlecry: If your C'Thun has at least 10 Attack, gain +5 Health. Amberweaving is a specialty course at the local trade school.
+Malkorok	Legendary	Minion	General	 Warrior	7 	6 	5 	
+Battlecry: Equip a random weapon. Garrosh's best buddy. It's true. Look it up.
+Mark of Y'Shaarj	Common	Spell		 Druid	2 			
+Give a minion +2/+2. If it's a Beast, draw a card. Y'shaarj had three sons: Mark, Theodore, and Chris.
+Master of Evolution	Rare	Minion	General	 Shaman	4 	4 	5 	
+Battlecry: Transform a friendly minion into a random one that costs (1) more. Will be really useful in the new "Hearthémon" game.
+Midnight Drake	Rare	Minion	Dragon	 Any	4 	1 	4 	
+Battlecry: Gain +1 Attack for each other card in your hand. Still fearsome in the daytime.
+Mire Keeper	Rare	Minion	General	 Druid	4 	3 	3 	
+Choose One - Summon a 2/2 Slime; or Gain an empty Mana Crystal. "Hey.... Is that Mire for sale?" "No. I'm keeping it."
+Mukla, Tyrant of the Vale	Legendary	Minion	Beast	 Any	6 	5 	5 	
+Battlecry: Add 2 Bananas to your hand. Pro tip: DO NOT BOGART THE BANANAS.
+N'Zoth's First Mate	Common	Minion	Pirate	 Warrior	1 	1 	1 	
+Battlecry: Equip a 1/3 Rusty Hook. Hates when N'Zoth yells "Ahoy Matey!!", but there's not really much he can do about it.
+N'Zoth, the Corruptor	Legendary	Minion	General	 Any	10 	5 	7 	
+Battlecry: Summon your Deathrattle minions that died this game. Has not been able to get "Under the Sea" out of his head for like FIVE THOUSAND YEARS.
+Nat, the Darkfisher	Legendary	Minion	General	 Any	2 	2 	4 	
+At the start of your opponent's turn, they have a 50% chance to draw an extra card. You can take away his humanity, but you will never take away his fishing pole.
+Nerubian Prophet	Common	Minion	General	 Any	6 	4 	4 	
+At the start of your turn, reduce this card's Cost by (1). It’s a self-reducing prophecy.
+On the Hunt	Common	Spell		 Hunter	1 			
+Deal 1 damage. Summon a 1/1 Mastiff. The mastiff giggles if you don't hit any ducks.
+Polluted Hoarder	Common	Minion	General	 Any	4 	4 	2 	
+Deathrattle: Draw a card. Roll ‘greed’ OR THIS COULD HAPPEN TO YOU.
+Possessed Villager	Common	Minion	General	 Warlock	1 	1 	1 	
+Deathrattle: Summon a 1/1 Shadowbeast. It's like a pinata! A lame disgusting horrific pinata.
+Power Word: Tentacles	Common	Spell		 Priest	5 			
+Give a minion +2/+6. Because you're wrapped in a protective layer of… tentacles?
+Primal Fusion	Common	Spell		 Shaman	1 			
+Give a minion +1/+1 for each of your Totems. Golce and Dabbana have a new line of Earth Totems available at vendors everywhere this holiday season.
+Princess Huhuran	Legendary	Minion	Beast	 Hunter	5 	6 	5 	
+Battlecry: Trigger a friendly minion's Deathrattle. She flitters around Ahn'Qiraj dreaming of the day she will meet a sweet prince, whom she can lay thousands of eggs with.
+Psych-o-Tron	Common	Minion	Mech	 Any	5 	3 	4 	
+Taunt 
+Ragnaros, Lightlord	Legendary	Minion	Elemental	 Paladin	8 	8 	8 	
+At the end of your turn, restore 8 health to a damaged friendly character. What happens when you try and corrupt a corrupted firelord? DOUBLE NEGATIVE, INSECT!
+Rallying Blade	Rare	Weapon		 Paladin	3 	3 	2 	
+Battlecry: Give +1/+1 to your minions with Divine Shield. As far as blades go, this one is pretty great in the motivation department.
+Ravaging Ghoul	Common	Minion	General	 Warrior	3 	3 	3 	
+Battlecry: Deal 1 damage to all other minions. But goes by "Ravishing Ghoul" when he hits the club.
+Renounce Darkness	Epic	Spell		 Warlock	2 			
+Replace your Hero Power and Warlock cards with another class's. The cards cost (1) less. SEE YA DARKNESS!
+Scaled Nightmare	Epic	Minion	Dragon	 Any	6 	2 	8 	
+At the start of your turn, double this minion's Attack. I like it because it scales.
+Selfless Hero	Rare	Minion	General	 Paladin	1 	2 	1 	
+Deathrattle: Give a random friendly minion Divine Shield. "Don't worry about me… I'll just be here... under these tentacles."
+Servant of Yogg-Saron	Rare	Minion	General	 Mage	5 	5 	4 	
+Battlecry: Cast a random spell that costs (5) or less (targets chosen randomly). Yogg-Saron always likes to complain about how he has too many servants and there are too many mouths to feed.
+Shadow Strike	Common	Spell		 Rogue	3 			
+Deal 5 damage to an undamaged character. It's like a backstab, only from the front. And with two more stabs.
+Shadow Word: Horror	Rare	Spell		 Priest	4 			
+Destroy all minions with 2 or less Attack. It's more succinct than "Shadow Word: Suck Into Vortex."
+Shadowcaster	Epic	Minion	General	 Rogue	5 	4 	4 	
+Battlecry: Choose a friendly minion. Add a 1/1 copy to your hand that costs (1). I mean, it's not creepy if you ASK before you steal their shadow to make a small replica of them to keep on your shelf.
+Shatter	Common	Spell		 Mage	2 			
+Destroy a Frozen minion. What's cooler than being cool?
+Shifter Zerus	Legendary	Minion	General	 Any	1 	1 	1 	
+Each turn this is in your hand, transform it into a different minion. It's like being able to play with THREE angry chickens!
+Shifting Shade	Rare	Minion	General	 Priest	4 	4 	3 	
+Deathrattle: Copy a card from your opponent's deck and add it to your hand. Yeah, it's cooler in the shade, but you're also more likely to get JACKED.
+Silithid Swarmer	Rare	Minion	Beast	 Any	3 	3 	5 	
+Can only attack if your hero attacked this turn. If your hero doesn't attack, it's just "Silithid Loner".
+Skeram Cultist	Rare	Minion	General	 Any	6 	7 	6 	
+Battlecry: Give your C'Thun +2/+2 (wherever it is). Just before he comes into play, there is an AWESOME training montage with C'thun.
+Soggoth the Slitherer	Legendary	Minion	General	 Any	9 	5 	9 	
+Taunt
+Southsea Squidface	Common	Minion	Pirate	 Rogue	4 	4 	4 	
+Deathrattle: Give your weapon +2 Attack. Quick! Before I drown! Let me sharpen your sword for you.
+Spawn of N'Zoth	Common	Minion	General	 Any	3 	2 	2 	
+Deathrattle: Give your minions +1/+1. Who's a cute widdle N'Zoth? You are! Yes you are! Yes you're the cutest widdle N'Zoth in the whole world!!!
+Spreading Madness	Rare	Spell		 Warlock	3 			
+Deal 9 damage randomly split among ALL characters Most citizens of Darkshire wear those surgical masks to prevent spreading Madness to tourists.
+Squirming Tentacle	Common	Minion	General	 Any	3 	2 	4 	
+Taunt Yeah, I think we can agree that killing the squirming tentacle first is a good idea.
+Stand Against Darkness	Common	Spell		 Paladin	5 			
+Summon five 1/1 Silver Hand Recruits. Or if you're too tired, you can just kind of lean against the darkness.
+Steward of Darkshire	Rare	Minion	General	 Paladin	3 	3 	3 	
+Whenever you summon a 1-Health minion, give it Divine Shield. Turns out divine shields are way cheaper if you buy in bulk.
+Stormcrack	Common	Spell		 Shaman	2 			
+Deal 4 damage to a minion. Overload: (1) WARNING: DO NOT TOUCH THE PURPLE BALL OF LIGHTNING
+Tentacle of N'Zoth	Common	Minion	General	 Any	1 	1 	1 	
+Deathrattle: Deal 1 damage to all minions. Because EVERYDAY is the Day of the Tentacle of N'zoth.
+Tentacles for Arms	Epic	Weapon		 Warrior	5 	2 	2 	
+Deathrattle: Return this to your hand. That's right. Garrosh just slapped you to death with a tentacle.
+The Boogeymonster	Legendary	Minion	General	 Any	8 	6 	7 	
+Whenever this attacks and kills a minion, gain +2/+2. Has 20 years of training in classical ballet, but ALLLLLL he ever gets asked to do is boogie.
+Thing from Below	Rare	Minion	General	 Shaman	6 	5 	5 	
+Taunt. Costs (1) less for each Totem you've summoned this game. Just can't resist the opportunity to hang around with a bunch of totems.
+Thistle Tea	Rare	Spell		 Rogue	6 			
+Draw a card. Add 2 extra copies of it to your hand. Aren't Thistles prickly? Why would you drink them? I don't get Rogues.
+Twilight Darkmender	Rare	Minion	General	 Priest	5 	6 	5 	
+Battlecry: If your C'Thun has at least 10 Attack, restore 10 Health to your hero. First she separates them from the lights, washes them in cold water, and hang-dries.
+Twilight Elder	Common	Minion	General	 Any	3 	3 	4 	
+At the end of your turn, give your C'Thun +1/+1 (wherever it is). Just doesn't understand those Twilight Youngsters any more - with their comic books and their rock music.
+Twilight Flamecaller	Common	Minion	General	 Mage	3 	2 	2 	
+Battlecry: Deal 1 damage to all enemy minions Make sure you summon a Twilight Marshmallowcaller too! Mmmm Mmm Mmm!!
+Twilight Geomancer	Common	Minion	General	 Any	2 	1 	4 	
+Taunt. Battlecry: Give your C'Thun Taunt (wherever it is). "Ok C'Thun, repeat after me: 'Your mother was a hamster.'"
+Twilight Summoner	Epic	Minion	General	 Any	4 	1 	1 	
+Deathrattle: Summon a 5/5 Faceless Destroyer. If you strike him down, he shall become more powerful than you can possibly imagine.
+Twin Emperor Vek'lor	Legendary	Minion	General	 Any	7 	4 	6 	
+Taunt
+Twisted Worgen	Common	Minion	General	 Any	2 	3 	1 	
+Stealth Sometimes the Old Gods' corruptions gives you power untold, sometimes you get +1 Attack. We can’t all be winners in the Eldritch lottery.
+Undercity Huckster	Rare	Minion	General	 Rogue	2 	2 	2 	
+Deathrattle: Add a random class card to your hand (from your opponent's class). Psst! Wanna buy a random class card (from your opponent's class)?
+Usher of Souls	Common	Minion	General	 Warlock	5 	5 	6 	
+Whenever a friendly minion dies, give your C'Thun +1/+1 (wherever it is). Nothing unburdens your soul like a good ushing!
+Validated Doomsayer	Epic	Minion	General	 Any	5 		7 	
+At the start of your turn, set this minion's Attack to 7. Really feels good about himself and is in a much better place now. But… he sure does miss piloting those shredders.
+Vilefin Inquisitor	Epic	Minion	Murloc	 Paladin	1 	1 	3 	
+Battlecry: Your Hero Power becomes 'Summon a 1/1 Murloc.' Nobody expects the Vilefin Inquisition!
+Wisps of the Old Gods	Epic	Spell		 Druid	7 			
+Choose One - Summon seven 1/1 Wisps; or Give your minions +2/+2. They're just normal wisps, actually. The "Of the Old Gods" bit is just marketing.
+Xaril, Poisoned Mind	Legendary	Minion	General	 Rogue	4 	3 	2 	
+Battlecry and Deathrattle: Add a random Toxin card to your hand. It's basically your own fault if you go around drinking weird green potions handed out by creepy mantid dudes.
+Y'Shaarj, Rage Unbound	Legendary	Minion	General	 Any	10 	10 	10 	
+At the end of your turn, put a minion from your deck into the battlefield. When he's working out, he binds all that rage back into a ponytail.
+Yogg-Saron, Hope's End	Legendary	Minion	General	 Any	10 	7 	5 	
+Battlecry: Cast a random spell for each spell you've cast this game (targets chosen randomly). I spell your doom... Y-O-U-R D-O-O-M!
+Zealous Initiate	Common	Minion	General	 Any	1 	1 	1 	
+Deathrattle: Give a random friendly minion +1/+1. Ok, Initiate. You need to settle down and do your job. In this case, that means die so someone else can get a minor buff

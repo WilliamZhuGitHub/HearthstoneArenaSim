@@ -1,0 +1,313 @@
+Arcane Servant	Common	Minion	Elemental	 Any	2 	2 	3 	
+"Would sir like me to punch something?"
+Burly Shovelfist	Common	Minion	General	 Any	9 	9 	9 	
+Rush Shovel beats paper and rock!
+Dalaran Crusader	Common	Minion	General	 Any	5 	5 	4 	
+Divine Shield Stops for nothing—except donuts.
+Dalaran Librarian	Common	Minion	General	 Any	2 	2 	3 	
+Battlecry: Silence adjacent minions. Don't make her raise her "shush"!
+Eccentric Scribe	Common	Minion	General	 Any	6 	6 	4 	
+Deathrattle: Summon four 1/1 Vengeful Scrolls. Them's fightin' words!
+EVIL Cable Rat	Common	Minion	Beast	 Any	2 	1 	1 	
+Battlecry: Add a Lackey to your hand. Gradually driven to darkness by the promise of unobtainable cheese.
+Faceless Rager	Common	Minion	General	 Any	3 	5 	1 	
+Battlecry: Copy a friendly minion's Health. When you need to rage anonymously.
+Flight Master	Common	Minion	General	 Any	3 	3 	4 	
+Battlecry: Summon a 2/2 Gryphon for each player. Your gryphon will be summoned following a brief safety demonstration.
+Hench-Clan Hogsteed	Common	Minion	Beast	 Any	2 	2 	1 	
+Rush
+Deathrattle: Summon a 1/1 Murloc. This is CLEARLY their first rodeo.
+Hench-Clan Sneak	Common	Minion	General	 Any	3 	3 	3 	
+Stealth He'd be a lot sneakier if he wasn't trailing 300 yeards of power cable...
+Heroic Innkeeper	Common	Minion	General	 Any	8 	4 	4 	
+Taunt. Battlecry: Gain +2/+2 for each other friendly minion. We reserve the right to refuse service to any 1/1.
+Mana Reservoir	Common	Minion	Elemental	 Any	2 	0 	6 	
+Spell Damage +1 If it soaks too long, it becomes a reservoir hog.
+Potion Vendor	Common	Minion	General	 Any	1 	1 	1 	
+Battlecry: Restore 2 Health to all friendly characters. Everyone gets two because that's all she can hold.
+Proud Defender	Common	Minion	General	 Any	4 	2 	6 	
+Taunt
+Has +2 Attack while you have no other minions. It'll take a humble offender to defeat him.
+Safeguard	Common	Minion	Mech	 Any	6 	4 	5 	
+Taunt
+Deathrattle: Summon a 0/5 Vault Safe with Taunt. Keep it secret. Keep it safeguarded!
+Soldier of Fortune	Common	Minion	Elemental	 Any	4 	5 	6 	
+Whenever this minion attacks, give your opponent a Coin. His allies call him invaluable.
+Spellbook Binder	Common	Minion	General	 Any	2 	3 	2 	
+Battlecry: If you have Spell Damage, draw a card. You're bound to love his work!
+Sunreaver Spy	Common	Minion	General	 Any	2 	2 	3 	
+Battlecry: If you control a Secret, gain +1/+1. She's watching. Always watching.
+Toxfin	Common	Minion	Murloc	 Any	1 	1 	2 	
+Battlecry: Give a friendly Murloc Poisonous. I'm addicted to him, but I know that he's Toxfin.
+Traveling Healer	Common	Minion	General	 Any	4 	3 	2 	
+Divine Shield
+Battlecry: Restore 3 Health. Some heroes have soft hearts and hard shells.
+Violet Spellsword	Common	Minion	General	 Any	4 	1 	6 	
+Battlecry: Gain +1 Attack for each spell in your hand. If you have to wield a spell and a sword, then neither is performing to expectation.
+Violet Warden	Common	Minion	General	 Any	6 	4 	7 	
+Taunt
+Spell Damage +1 He's got magic, a shield, and an unwavering obsession with the color purple.
+Acornbearer	Common	Minion	General	 Druid	1 	2 	1 	
+Deathrattle: Add two 1/1 Squirrels to your hand. You'd be nuts to mess with the squirrel squad.
+Blessing of the Ancients	Common	Spell		 Druid	1 			
+Twinspell
+Give your minions +1/+1. Arguably the cutest blessing.
+Crystal Power	Common	Spell		 Druid	1 			
+Choose One: Deal 2 damage to a minion; or Restore 5 Health. Often used as healing crystals, but also good for throwing at people.
+Marked Shot	Common	Spell		 Hunter	4 			
+Deal 4 damage to a minion.
+Discover a spell. Obviously it's marked for greatness.
+Rapid Fire	Common	Spell		 Hunter	1 			
+Twinspell
+Deal 1 damage. Pew! Pew!
+Ursatron	Common	Minion	Mech	 Hunter	3 	3 	3 	
+Deathrattle: Draw a Mech from your deck. It's been programmed to include all the bear necessities.
+Magic Dart Frog	Common	Minion	Beast	 Mage	2 	1 	3 	
+After you cast a spell, deal 1 damage to a random enemy minion. There's a powerful throat in this frog.
+Messenger Raven	Common	Minion	Beast	 Mage	3 	3 	2 	
+Battlecry: Discover a Mage minion. You can make a collect CAW!
+Ray of Frost	Common	Spell		 Mage	1 			
+Twinspell
+Freeze a minion. If it's already Frozen, deal 2 damage to it. If you have zero chill, this can help.
+Bronze Herald	Common	Minion	Dragon	 Paladin	3 	3 	2 	
+Deathrattle: Add two 4/4 Dragons to your hand. This is why you shouldn't shoot the messenger.
+Lightforged Blessing	Common	Spell		 Paladin	2 			
+Twinspell
+Give a friendly minion Lifesteal. Some might call this a lightforgery.
+Never Surrender!	Common	Spell		 Paladin	1 			
+Secret: When your opponent casts a spell, give your minions +2 Health. But sometimes concede.
+EVIL Conscripter	Common	Minion	General	 Priest	2 	2 	2 	
+Deathrattle: Add a Lackey to your hand. Kobold! There's a place you can handle
+I said kobold! When you're short in the candle
+Cast a spell with the E! V! I! L!
+Hench-Clan Shadequill	Common	Minion	General	 Priest	4 	4 	7 	
+Deathrattle: Restore 5 Health to the enemy hero. The Hench-Clan has a point.
+Unsleeping Soul	Common	Spell		 Priest	4 			
+Silence a friendly minion, then summon a copy of it. It's 3 am. Do you know where your soul is?
+Daring Escape	Common	Spell		 Rogue	1 			
+Return all friendly minions to your hand. Impossible to cast without cackling evilly.
+EVIL Miscreant	Common	Minion	General	 Rogue	3 	1 	4 	
+Combo: Add two random Lackeys to your hand. Because there are no G.O.O.D. Miscreants.
+Hench-Clan Burglar	Common	Minion	Pirate	 Rogue	4 	4 	3 	
+Battlecry: Discover a spell from another class. She's more of a rat burglar.
+Mutate	Common	Spell		 Shaman	0 			
+Transform a friendly minion into a random one that costs (1) more. You'll get the transformation you want when murlocs fly.
+Soul of the Murloc	Common	Spell		 Shaman	2 			
+Give your minions "Deathrattle: Summon a 1/1 Murloc." Previously thought nonexistent.
+Walking Fountain	Common	Minion	Elemental	 Shaman	8 	4 	8 	
+Lifesteal, Rush, Windfury The weirdest part is that it doesn't have legs.
+Aranasi Broodmother	Common	Minion	Demon	 Warlock	6 	4 	6 	
+Taunt
+When you draw this, restore 4 Health to your hero. She's got a big brood and a big mood.
+EVIL Genius	Common	Minion	General	 Warlock	2 	2 	2 	
+Battlecry: Destroy a friendly minion to add 2 random Lackeys to your hand. You do not want to be on the business end of this intellect!
+Rafaam's Scheme	Common	Spell		 Warlock	3 			
+Summon 1 1/1 Imp.
+(Upgrades each turn!) "When your first plan fails... imp-rovise."
+Dr. Boom's Scheme	Common	Spell		 Warrior	4 			
+Gain 1 Armor.
+(Upgrades each turn!) "We did it! We blew up the vault!"
+"You mean the vault door?"
+"Oh. The doooor..."
+Improve Morale	Common	Spell		 Warrior	1 			
+Deal 1 damage to a minion.
+If it is survives, add a Lackey to your hand. "The beatings will continue until MY morale improves."
+Vicious Scraphound	Common	Minion	Mech	 Warrior	2 	2 	3 	
+Whenever this minion deals damage, gain that much Armor. It begs for scraps.
+Arcane Watcher	Rare	Minion	General	 Any	3 	5 	6 	
+Can't attack unless you have Spell Damage. Now his watch has ended... until you have Spell Damage.
+Exotic Mountseller	Rare	Minion	General	 Any	7 	5 	8 	
+Whenever you cast a spell, summon a random 3-Cost Beast. *Taps roof of mammoth* "You can fit so many squirrels in this thing!"
+Hecklebot	Rare	Minion	Mech	 Any	4 	3 	8 	
+Taunt
+Battlecry: Your opponent summons a minion from their deck. Built by goblins, designed by a troll.
+Mad Summoner	Rare	Minion	Demon	 Any	6 	4 	4 	
+Battlecry: Fill each player's board with 1/1 Imps. Does he summon because of his madness, or is he mad from all the summoning?
+Portal Keeper	Rare	Minion	Demon	 Any	4 	5 	2 	
+Battlecry: Shuffle 3 Portals into your deck. When drawn, summon a 2/2 Demon with Rush. No longer allowed to be "it" when playing demon tag.
+Recurring Villain	Rare	Minion	General	 Any	5 	3 	6 	
+Deathrattle: If this minion has 4 or more Attack, resummon it. Mwahahaha! You'll never catch him this time!
+Spellward Jeweler	Rare	Minion	General	 Any	3 	3 	4 	
+Battlecry: Your hero can't be targeted by spells or Hero Powers until your next turn. The fanciest possible way of distracting enemies with shiny things.
+Sunreaver Warmage	Rare	Minion	General	 Any	5 	4 	4 	
+Battlecry: If you're holding a spell that costs (5) or more, deal 4 damage. What, did you expect the Sunreavers to be coldages?
+Tunnel Blaster	Rare	Minion	General	 Any	7 	3 	7 	
+Taunt
+Deathrattle: Deal 3 damage to all minions. And you always thought they wore the candles just for fun.
+Underbelly Ooze	Rare	Minion	General	 Any	7 	3 	5 	
+After this minion survives damage, summon a copy of it. It's always accepting of the less successful adventurers.
+Dreamway Guardians	Rare	Spell		 Druid	2 			
+Summon two 1/2 Dryads with Lifesteal. They're a nightmare to deal with.
+Lifeweaver	Rare	Minion	General	 Druid	3 	2 	5 	
+Whenever you restore Health, add a random Druid spell to your hand. Lifeweaving is all well and good until it's time to cut the thread.
+The Forest's Aid	Rare	Spell		 Druid	8 			
+Twinspell
+Summon five 2/2 Treants. Delicious Forest's Aid! Made from real forests.
+Hunting Party	Rare	Spell		 Hunter	5 			
+Copy all Beasts in your hand. Not sure I'd call it a good party if everyone ends up beside themselves.
+Shimmerfly	Rare	Minion	Beast	 Hunter	1 	1 	1 	
+Deathrattle: Add a random Hunter spell to your hand. Plenty of buzz around this card.
+Unleash the Beast	Rare	Spell		 Hunter	6 			
+Twinspell
+Summon a 5/5 Wyvern with Rush. The Kirin Tor has always been lax in enforcing leash laws.
+Conjurer's Calling	Rare	Spell		 Mage	4 			
+Twinspell
+Destroy a minion. Summon 2 minions of the same Cost to replace it. If only you'd let it go to voicemail...
+Kirin Tor Tricaster	Rare	Minion	General	 Mage	4 	3 	3 	
+Spell Damage +3
+Your spells cost (1) more. The math checks out!
+Magic Trick	Rare	Spell		 Mage	1 			
+Discover a spell that costs (3) or less. The world is not ready for an illusion of this depth and intricacy!
+Call to Adventure	Rare	Spell		 Paladin	3 			
+Draw the lowest Cost minion from your deck. Give it +2/+2. Even the smallest minion can change the outcome of the game.
+Desperate Measures	Rare	Spell		 Paladin	1 			
+Twinspell
+Cast a random Paladin Secret. Desperate times call for disparate secrets.
+Mysterious Blade	Rare	Weapon		 Paladin	2 	2 	2 	
+Battlecry: If you control a Secret, gain +1 Attack. It knows every secret you have felt.
+Convincing Infiltrator	Rare	Minion	General	 Priest	5 	2 	6 	
+Taunt
+Deathrattle: Destroy a random enemy minion. It's always nice to steal a familiar face.
+Forbidden Words	Rare	Spell		 Priest	0 			
+Spend all your Mana. Destroy a minion with that much Attack or less. Please confirm your age before reading this flavor text.
+Mass Resurrection	Rare	Spell		 Priest	9 			
+Summon 3 friendly minions that died this game. One's company, two's a crowd, and three's a "mass" resurrection, apparently.
+Togwaggle's Scheme	Rare	Spell		 Rogue	1 			
+Choose a minion.
+Shuffle 1 copy of it into your deck.
+(Upgrades each turn!) "Many minions equals many treasures for king. Kobold arithmetic!"
+Underbelly Fence	Rare	Minion	General	 Rogue	2 	2 	3 	
+Battlecry: If you're holding a card from another class, gain +1/+1 and Rush. She'll take anything you have—except scruples and a good work ethic.
+Vendetta	Rare	Spell		 Rogue	4 			
+Deal 4 damage to a minion. Costs (0) if you're holding a card from another class. A vengeful and vicarious vanguard against violent villains or vexed victims.
+Hagatha's Scheme	Rare	Spell		 Shaman	5 			
+Deal 1 damage to all minion.
+(Upgrades each turn!) "All shall suffer!"
+"But Hagatha, those are your minions..."
+"I said ALL!!!"
+Sludge Slurper	Rare	Minion	Murloc	 Shaman	1 	1 	1 	
+Battlecry: Add a Lackey to your hand. Overload: (1) You can't stop slurping this delicious sludge!
+Underbelly Angler	Rare	Minion	Murloc	 Shaman	2 	2 	3 	
+After you play a Murloc, add a random Murloc to your hand. Attracts murlocs... and moths.
+Eager Underling	Rare	Minion	General	 Warlock	4 	2 	2 	
+Deathrattle: Give two random friendly minions +2/+2. Eager to please, even if it kills him.
+Impferno	Rare	Spell		 Warlock	3 			
+Give your Demons +1 Attack. Deal 1 damage to all enemy minions. Imps don't get mad when you set them on fire. They think it's cozy.
+Plot Twist	Rare	Spell		 Warlock	2 			
+Shuffle your hand into your deck. Draw that many cards. It's coming from inside the deck!
+Clockwork Goblin	Rare	Minion	Mech	 Warrior	3 	3 	3 	
+Battlecry: Shuffle a Bomb into your opponent's deck. When draw, it explodes for 5 damage. They always end up bombing.
+Dimensional Ripper	Rare	Spell		 Warrior	10 			
+Summon 2 copies of a minion in your deck. The first dimensional ripper had a point.
+The second fell flat.
+The THIRD one really started to take shape!
+Sweeping Strikes	Rare	Spell		 Warrior	2 			
+Give a minion "Also damages minions next to whomever this attacks." Infinitely preferable to mopping strikes.
+Azerite Elemental	Epic	Minion	Elemental	 Any	5 	2 	7 	
+At the start of your turn, gain Spell Damage +2. This is some bad blood.
+Batterhead	Epic	Minion	General	 Any	8 	3 	12 	
+Rush. After this attacks and kills a minion, it may attack again. When it comes to problem-solving, he always uses his head.
+Big Bad Archmage	Epic	Minion	General	 Any	10 	6 	6 	
+At the end of your turn, summon a random 6-Cost minion. "My, my, what big minions I have!"
+Hench-Clan Hag	Epic	Minion	General	 Any	4 	3 	3 	
+Battlecry: Summon two 1/1 Amalgams with all minion types. The Hench Clan is an equal opportunity employer, no matter which parts of you came from where.
+Magic Carpet	Epic	Minion	General	 Any	3 	1 	6 	
+After you play a 1-Cost minion, give it +1 Attack and Rush. Its small yet fierce riders are affectionately known as rug rats.
+Portal Overfiend	Epic	Minion	Demon	 Any	6 	5 	6 	
+Battlecry: Shuffle 3 Portals into your deck. When drawn, summon a 2/2 Demon with Rush. It's like an interdimensional game of demon tag.
+Unseen Saboteur	Epic	Minion	General	 Any	6 	5 	6 	
+Battlecry: Your opponent casts a random spell from their hand (targets chosen randomly). Far more effective than the flamboyant saboteur.
+Whirlwind Tempest	Epic	Minion	Elemental	 Any	8 	6 	6 	
+Your minions with Windfury have Mega-Windfury. And your minions with mega-windfury get... dizzy.
+Crystal Stag	Epic	Minion	Beast	 Druid	5 	4 	4 	
+Rush. Battlecry: If you've restored 5 Health this game, summon a copy of this. Arrives alone, but usually leaves with a friend just like him.
+Crystalsong Portal	Epic	Spell		 Druid	2 			
+Discover a Druid minion. If you hand has no minions, keep all 3. Experience the draw of the wild!
+Arcane Fletcher	Epic	Minion	General	 Hunter	4 	3 	3 	
+Whenever you play a 1-Cost minion, draw a spell from your deck. Stop trying to make fletch happen. It's not going to happen.
+Nine Lives	Epic	Spell		 Hunter	3 			
+Discover a friendly Deathrattle minion that died this game. Also trigger its Deathrattle. Beware the night of the living pets!
+Mana Cyclone	Epic	Minion	Elemental	 Mage	2 	2 	2 	
+Battlecry: For each spell you've cast this turn, add a random Mage spell to your hand. It'll put a good spin on your spells.
+Power of Creation	Epic	Spell		 Mage	8 			
+Discover a 6-Cost minion. Summon two copies of it. Mostly used for party tricks, to be honest.
+Dragon Speaker	Epic	Minion	General	 Paladin	5 	3 	5 	
+Battlecry: Give all Dragons in your hand +3/+3. All of his speeches really drag on.
+Duel!	Epic	Spell		 Paladin	5 			
+Summon a minion from each player's deck. They fight! If you don't fight to the death, it's Duel Yielding.
+Lazul's Scheme	Epic	Spell		 Priest	0 			
+Reduce the Attack of an enemy minion by 1 until your next turn.
+(Upgrades each turn!) "What's that you're dreaming?
+You're weak and you're screaming!
+It must be my scheming..."
+Shadowy Figure	Epic	Minion	General	 Priest	2 	2 	2 	
+Battlecry: Transform into a 2/2 copy of a friendly Deathrattle minion. Terrible at shadow puppets: "This is... a tentacle! And this is... two tentacles!"
+Unidentified Contract	Epic	Spell		 Rogue	6 			
+Destroy a minion. Gains a bonus effect in your hand. The terms of service are constantly changing.
+Waggle Pick	Epic	Weapon		 Rogue	4 	4 	2 	
+Deathrattle: Return a random friendly minion to your hand. It costs (2) less. Kobolds informally refer to its effect as a deathwaggle.
+Muckmorpher	Epic	Minion	General	 Shaman	5 	4 	4 	
+Battlecry: Transform into a 4/4 copy of a different minion in your deck. Fan favorite in the muck morphin' sewer strangers.
+Witch's Brew	Epic	Spell		 Shaman	2 			
+Restore 4 Health. Repeatable this turn. The swill has eyes!
+Darkest Hour	Epic	Spell		 Warlock	6 			
+Destroy all friendly minions. For each one, summon a random minion from your deck. It's always darkest just before you find the light switch.
+Jumbo Imp	Epic	Minion	Demon	 Warlock	10 	8 	8 	
+Costs (1) less whenever a friendly Demon dies while this is in your hand. Jumbo in size! Huge in E.V.I.L.!
+Omega Devastator	Epic	Minion	Mech	 Warrior	4 	4 	5 	
+Battlecry: If you have 10 Mana Crystals, deal 10 damage to a minion. The Alpha Devastator didn't devastate enough. The Beta Devastator devastated too much. But the Omega was just right!
+Wrenchcalibur	Epic	Weapon		 Warrior	4 	3 	2 	
+After your hero attacks, shuffle a Bomb into your opponent's deck. Whoso pulleth out this wrench from the toolbox is rightwise king of the lab.
+Archivist Elysiana	Legendary	Minion	General	 Any	9 	7 	7 	
+Battlecry: Discover 5 cards. Replace your deck with 2 copies of each. Your deck is just another organizational challenge to her.
+Archmage Vargoth	Legendary	Minion	General	 Any	4 	2 	6 	
+At the end of your turn, cast a spell you've cast this turn (targets are random). He's an archmage, but he might want to brush up on the basics... like aiming.
+Barista Lynchen	Legendary	Minion	General	 Any	5 	4 	5 	
+Battlecry: Add a copy of each of your other Battlecry minions to your hand. "Thanks a latte!"
+Chef Nomi	Legendary	Minion	General	 Any	7 	6 	6 	
+Battlecry: If your deck is empty, summon six 6/6 Greasefire Elementals. His cooking is always very well done.
+Jepetto Joybuzz	Legendary	Minion	General	 Any	8 	6 	6 	
+Battlecry: Draw 2 minions from your deck. Set their Attack, Health, and Cost to 1. "I'm a real toy now!"
+Zayle, Shadow Cloak	Legendary	Minion	General	 Any	2 	3 	2 	
+You start the game with one of Zayle's EVIL Decks! E.V.I.L. is the new black.
+Keeper Stalladris	Legendary	Minion	General	 Druid	2 	2 	3 	
+After you cast a Choose One spell, add copies of both choices to your hand. Keeps your choices handy.
+Lucentbark	Legendary	Minion	General	 Druid	8 	4 	8 	
+Taunt
+Deathrattle: Go dormant. Restore 5 Health to awaken this minion. Always feels refreshed after a little dirt nap.
+Oblivitron	Legendary	Minion	Mech	 Hunter	6 	3 	4 	
+Deathrattle: Summon a Mech from your hand and trigger its Deathrattle. Reduce, reuse, re-rattle!
+Vereesa Windrunner	Legendary	Minion	General	 Hunter	7 	5 	6 	
+Battlecry: Equip Thori'dal, the Stars' Fury. Good things come in threes: Windrunner sisters and arrows of Thori'dal.
+Kalecgos	Legendary	Minion	Dragon	 Mage	10 	4 	12 	
+Your first spell each turn costs (0).
+Battlecry: Discover a spell. He was once the Aspect of Magic but gave it up to focus on cheap tricks.
+Khadgar	Legendary	Minion	General	 Mage	2 	2 	2 	
+Your cards that summon minions summon twice as many. "What do you call two minions summoned at once? Twinions, haha! Wait... where are you going?"
+Commander Rhyssa	Legendary	Minion	General	 Paladin	3 	4 	3 	
+Your Secrets trigger twice. Two people can keep a secret as long as neither of them are Commander Rhyssa.
+Nozari	Legendary	Minion	Dragon	 Paladin	10 	4 	12 	
+Battlecry: Restore both heroes to full Health. In another timeline, she was called Yeszari.
+Catrina Muerte	Legendary	Minion	General	 Priest	8 	6 	8 	
+At the end of your turn, summon a friendly minion that died this game. She always manages to lift your spirits.
+Madame Lazul	Legendary	Minion	General	 Priest	3 	3 	2 	
+Battlecry: Discover a copy of a card in your oppponent's hand. Of course she knows the future, she's been looking at your cards the WHOLE TIME!
+Heistbaron Togwaggle	Legendary	Minion	General	 Rogue	6 	5 	5 	
+Battlecry: If you control a Lackey, choose a fantastic treasure. A staunch ally of Rafaam, at least while the shinies keep flowing.
+Tak Nozwhisker	Legendary	Minion	General	 Rogue	7 	6 	6 	
+Whenever you shuffle a card into your deck, add a copy to your hand. "One for me and one for future me!"
+Scargil	Legendary	Minion	Murloc	 Shaman	4 	4 	4 	
+Your Murlocs cost (1). Wanna know how he got those scars? So does he.
+Swampqueen Hagatha	Legendary	Minion	General	 Shaman	7 	5 	5 	
+Battlecry: Add a 5/5 Horror to your hand. Teach it two Shaman spells. Rafaam mainly enjoys working with Hagatha because she never laughs at Dr. Boom's jokes.
+Arch-Villain Rafaam	Legendary	Minion	General	 Warlock	7 	7 	8 	
+Taunt
+Battlecry: Replace your hand and deck with Legendary minions. Minions must wash hands before being LIQUIDATED AND REPLACED BY SOMEONE BETTER.
+Fel Lord Betrug	Legendary	Minion	Demon	 Warlock	8 	5 	7 	
+Whenever you draw a minion, summon a copy with Rush that dies at end of turn. Nobody else likes rush hour.
+Blastmaster Boom	Legendary	Minion	General	 Warrior	7 	7 	7 	
+Battlecry: Summon two 1/1 Boom Bots for each Bomb in your opponent's deck. He's gonna fly through the air with the greatest of grease.
+Scourgelord Dazzik	Legendary	Hero card		 Warrior	8 			
+Battlecry: Equip a 4/3 Shadowmourne that also damages adjacent minions. 
+The Boom Reaver	Legendary	Minion	Mech	 Warrior	10 	7 	9 	
+Battlecry: Summon a copy of a minion in your deck. Give it Rush. "What's better than reaving? BOOM reaving!"
