@@ -12,7 +12,7 @@ public class CardSetClassic {
 
 	public ArrayList<Card> classicList() {
 		ArrayList<Card> classic = new ArrayList<Card>();
-		classic.add(new Minion("Abominataion", " Rare", " Minion", " General", "  Any", 5, 4, 4));
+		classic.add(new Minion("Abominaataion", " Rare", " Minion", " General", "  Any", 5, 4, 4));
 		classic.add(new Minion("Abusive Sergeant", " Common", " Minion", " General", "  Any", 1, 1, 1));
 		classic.add(new Minion("Acolyte of Pain", " Common", " Minion", " General", "  Any", 3, 1, 3));
 		classic.add(new Minion("Al'Akir the Windlord", " Legendary", " Minion", " Elemental", "  Shaman", 8, 3, 5));
