@@ -6,7 +6,7 @@
 
 ## Tech
 * Built using Java and Java Fx
-* Card data taken from\
+* Card data is taken from and parsed into cardObjects and arraylists\
 https://hearthstone.gamepedia.com/Card_set
 * Card offering statistics taken from\
 https://us.forums.blizzard.com/en/hearthstone/t/current-are
