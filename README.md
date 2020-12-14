@@ -6,6 +6,8 @@
 
 ## Tech
 * Built using Java and Java Fx
-* Card data taken from https://hearthstone.gamepedia.com/Card_set
-* Card offering statistics taken from https://us.forums.blizzard.com/en/hearthstone/t/current-are
+* Card data taken from\
+https://hearthstone.gamepedia.com/Card_set
+* Card offering statistics taken from\
+https://us.forums.blizzard.com/en/hearthstone/t/current-are
 
