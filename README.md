@@ -1,3 +1,4 @@
+# HearthstoneArenaSim
 ## General Info
 * This program is a text based game meant to simulate drafting cards in Hearthstone's Arena mode.
 * It is meant to help practice making better drafting decisions and learning with hindsight.
